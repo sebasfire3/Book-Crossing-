@@ -1,0 +1,601 @@
+Título;Autor;Genero
+Harry Potter and the Goblet of Fire (Harry Potter, #4);J.K. Rowling;['Fantasy', 'Young Adult', 'Fiction', 'Magic', 'Childrens', 'Middle Grade', 'Audiobook']
+Angels & Demons (Robert Langdon, #1);Dan Brown;['Fiction', 'Mystery', 'Thriller', 'Mystery Thriller', 'Suspense', 'Adventure', 'Crime', 'Historical Fiction', 'Novels', 'Adult']
+A Storm of Swords (A Song of Ice and Fire, #3);George R.R. Martin;['Fantasy', 'Fiction', 'Epic Fantasy', 'Science Fiction Fantasy', 'High Fantasy', 'Adult', 'Audiobook']
+The Amber Spyglass (His Dark Materials, #3);Philip Pullman;['Fantasy', 'Young Adult', 'Fiction', 'Childrens', 'Adventure', 'Science Fiction', 'Audiobook', 'Science Fiction Fantasy', 'Steampunk', 'Middle Grade']
+The Amazing Adventures of Kavalier & Clay;Michael Chabon;['Fiction', 'Historical Fiction', 'Novels', 'Literature', 'Historical', 'Literary Fiction', 'Contemporary', 'Jewish', 'Comics', 'New York']
+Me Talk Pretty One Day;David Sedaris;['Nonfiction', 'Humor', 'Memoir', 'Essays', 'Short Stories', 'Comedy', 'Biography', 'Audiobook', 'Biography Memoir', 'Autobiography']
+On Writing: A Memoir of the Craft;Stephen King;['Nonfiction', 'Writing', 'Memoir', 'Biography', 'Reference', 'Audiobook', 'Autobiography', 'Biography Memoir', 'Self Help', 'Books About Books']
+Persepolis: The Story of a Childhood (Persepolis, #1);Marjane Satrapi;['Graphic Novels', 'Nonfiction', 'Memoir', 'Comics', 'Biography', 'History', 'Iran', 'School', 'Graphic Novels Comics', 'Autobiography']
+Kitchen Confidential: Adventures in the Culinary Underbelly;Anthony Bourdain;['Nonfiction', 'Food', 'Memoir', 'Biography', 'Cooking', 'Audiobook', 'Autobiography', 'Biography Memoir', 'Humor', 'Food and Drink']
+Because of Winn-Dixie;Kate DiCamillo;['Fiction', 'Childrens', 'Middle Grade', 'Realistic Fiction', 'Young Adult', 'Classics', 'Animals', 'School', 'Dogs', 'Chapter Books']
+Fantastic Beasts and Where to Find Them;Newt Scamander;['Fantasy', 'Fiction', 'Young Adult', 'Childrens', 'Magic', 'Middle Grade', 'Audiobook']
+House of Leaves;Mark Z. Danielewski;['Horror', 'Fiction', 'Fantasy', 'Mystery', 'Thriller', 'Contemporary', 'Novels', 'Adult', 'Literature', 'Paranormal']
+A Heartbreaking Work of Staggering Genius;Dave Eggers;['Fiction', 'Contemporary', 'Literature', 'Humor', 'Biography Memoir', 'Novels', 'American', 'Unfinished', 'Literary Fiction', 'Adult']
+The Princess Diaries (The Princess Diaries, #1);Meg Cabot;['Young Adult', 'Romance', 'Fiction', 'Contemporary', 'Chick Lit', 'Teen', 'Childrens', 'Humor', 'Realistic Fiction', 'Middle Grade']
+The Wide Window (A Series of Unfortunate Events, #3);Lemony Snicket;['Fiction', 'Young Adult', 'Childrens', 'Middle Grade', 'Fantasy', 'Mystery', 'Adventure', 'Audiobook', 'Humor', 'Juvenile']
+Storm Front (The Dresden Files, #1);Jim Butcher;['Fantasy', 'Urban Fantasy', 'Mystery', 'Fiction', 'Paranormal', 'Magic', 'Audiobook', 'Supernatural', 'Crime', 'Science Fiction Fantasy']
+The Blind Assassin;Margaret Atwood;['Fiction', 'Historical Fiction', 'Mystery', 'Canada', 'Literary Fiction', 'Classics', 'Contemporary', 'Literature', 'Science Fiction', 'Historical']
+Fool Moon (The Dresden Files, #2);Jim Butcher;['Fantasy', 'Urban Fantasy', 'Mystery', 'Fiction', 'Paranormal', 'Magic', 'Audiobook', 'Supernatural', 'Science Fiction Fantasy', 'Werewolves']
+Stargirl (Stargirl, #1);Jerry Spinelli;['Young Adult', 'Fiction', 'Contemporary', 'Realistic Fiction', 'Romance', 'Middle Grade', 'Childrens', 'School', 'Teen', 'Coming Of Age']
+Prodigal Summer;Barbara Kingsolver;['Fiction', 'Nature', 'Contemporary', 'Literary Fiction', 'Novels', 'Adult', 'Adult Fiction', 'Literature', 'Environment', 'Audiobook']
+The Truth (Discworld, #25);Terry Pratchett;['Fantasy', 'Fiction', 'Humor', 'Comedy', 'Science Fiction Fantasy', 'Audiobook', 'Adult', 'British Literature', 'Novels', 'Vampires']
+White Teeth;Zadie Smith;['Fiction', 'Contemporary', 'Novels', 'Literary Fiction', 'British Literature', 'Literature', 'Historical Fiction', 'Classics', 'Adult Fiction', 'Race']
+The Miserable Mill (A Series of Unfortunate Events, #4);Lemony Snicket;['Fiction', 'Young Adult', 'Childrens', 'Middle Grade', 'Fantasy', 'Mystery', 'Adventure', 'Audiobook', 'Humor', 'Juvenile']
+Page (Protector of the Small, #2);Tamora Pierce;['Fantasy', 'Young Adult', 'Fiction', 'Young Adult Fantasy', 'Magic', 'Adventure', 'High Fantasy', 'Childrens', 'Middle Grade', 'Science Fiction Fantasy']
+Baudolino;Umberto Eco;['Fiction', 'Historical Fiction', 'Fantasy', 'Literature', 'Historical', 'Italian Literature', 'Medieval', 'Italy', 'Novels', 'Classics']
+Deadhouse Gates (Malazan Book of the Fallen, #2);Steven Erikson;['Fantasy', 'Epic Fantasy', 'Fiction', 'High Fantasy', 'Epic', 'Dark Fantasy', 'Science Fiction Fantasy', 'War', 'Young Adult', 'Audiobook']
+The Tipping Point: How Little Things Can Make a Big Difference;Malcolm Gladwell;['Nonfiction', 'Business', 'Psychology', 'Sociology', 'Self Help', 'Science', 'Economics', 'Audiobook', 'Leadership', 'Personal Development']
+Perdido Street Station (New Crobuzon, #1);China Miéville;['Fantasy', 'Fiction', 'Science Fiction', 'Steampunk', 'Horror', 'Urban Fantasy', 'New Weird', 'Science Fiction Fantasy', 'Weird Fiction', 'Speculative Fiction']
+The Queen of Attolia (The Queen's Thief, #2);Megan Whalen Turner;['Fantasy', 'Young Adult', 'Fiction', 'Adventure', 'Romance', 'Young Adult Fantasy', 'High Fantasy', 'Historical Fiction', 'Mythology', 'Audiobook']
+Deadly Decisions (Temperance Brennan, #3);Kathy Reichs;['Mystery', 'Crime', 'Fiction', 'Thriller', 'Mystery Thriller', 'Suspense', 'Murder Mystery', 'Detective', 'Audiobook', 'Canada']
+Hot Six (Stephanie Plum, #6);Janet Evanovich;['Mystery', 'Fiction', 'Humor', 'Chick Lit', 'Romance', 'Crime', 'Comedy', 'Contemporary', 'Adult', 'Mystery Thriller']
+A Painted House;John Grisham;['Fiction', 'Mystery', 'Historical Fiction', 'Thriller', 'Suspense', 'Novels', 'Historical', 'Adult Fiction', 'Drama', 'Coming Of Age']
+The Human Stain (The American Trilogy, #3);Philip Roth;['Fiction', 'Novels', 'Literature', 'American', 'Contemporary', 'Literary Fiction', 'Classics', 'Americana', 'The United States Of America', 'Jewish']
+Winter's Heart (The Wheel of Time, #9);Robert Jordan;['Fantasy', 'Fiction', 'Epic Fantasy', 'High Fantasy', 'Science Fiction Fantasy', 'Audiobook', 'Epic', 'Adventure', 'Magic', 'Adult']
+Ship of Destiny (Liveship Traders, #3);Robin Hobb;['Fantasy', 'Fiction', 'Epic Fantasy', 'Dragons', 'High Fantasy', 'Science Fiction Fantasy', 'Adventure']
+True History of the Kelly Gang;Peter Carey;['Fiction', 'Historical Fiction', 'Australia', 'Historical', 'Crime', 'Literature', 'Literary Fiction', 'Novels', 'Westerns', 'Classics']
+Click, Clack, Moo: Cows That Type;Doreen Cronin;['Picture Books', 'Childrens', 'Animals', 'Fiction', 'Humor', 'Fantasy', 'Storytime', 'Kids', 'Juvenile', 'School']
+In a Sunburned Country;Bill Bryson;['Travel', 'Nonfiction', 'Humor', 'Australia', 'Memoir', 'Audiobook', 'History', 'Adventure', 'Biography', 'Travelogue']
+The Harry Potter Collection 1-4 (Harry Potter, #1-4);J.K. Rowling;['Fantasy', 'Fiction', 'Young Adult', 'Magic', 'Adventure', 'Childrens', 'Classics', 'Novels', 'Urban Fantasy', 'Middle Grade']
+Tears of the Giraffe (No. 1 Ladies' Detective Agency, #2);Alexander McCall Smith;['Mystery', 'Fiction', 'Africa', 'Crime', 'Botswana', 'Detective', 'Mystery Thriller', 'Audiobook', 'Cozy Mystery', 'Humor']
+The Austere Academy (A Series of Unfortunate Events, #5);Lemony Snicket;['Fiction', 'Young Adult', 'Childrens', 'Middle Grade', 'Fantasy', 'Mystery', 'Adventure', 'Audiobook', 'Humor', 'Juvenile']
+Spindle's End;Robin McKinley;['Fantasy', 'Young Adult', 'Fairy Tales', 'Fiction', 'Retellings', 'Romance', 'Fairy Tale Retellings', 'Magic', 'Science Fiction Fantasy', 'Young Adult Fantasy']
+Fever 1793;Laurie Halse Anderson;['Historical Fiction', 'Young Adult', 'Fiction', 'Historical', 'Middle Grade', 'Childrens', 'School', 'Teen', 'Audiobook', 'Survival']
+"A Darkness More Than Night (Harry Bosch, #7; Terry McCaleb, #2; Harry Bosch Universe, #9)";Michael Connelly;['Mystery', 'Fiction', 'Crime', 'Thriller', 'Detective', 'Mystery Thriller', 'Audiobook', 'Suspense', 'Murder Mystery', 'Adult']
+The Brethren;John Grisham;['Fiction', 'Thriller', 'Mystery', 'Legal Thriller', 'Suspense', 'Crime', 'Mystery Thriller', 'Law', 'Novels', 'Adult']
+Year of the Griffin (Derkholm, #2);Diana Wynne Jones;['Fantasy', 'Young Adult', 'Fiction', 'Magic', 'Humor', 'Young Adult Fantasy', 'Childrens', 'Middle Grade', 'Adventure', 'High Fantasy']
+The Opal Deception (Artemis Fowl, #4);Eoin Colfer;['Fantasy', 'Young Adult', 'Fiction', 'Science Fiction', 'Middle Grade', 'Adventure', 'Childrens', 'Magic', 'Urban Fantasy', 'Audiobook']
+Balzac and the Little Chinese Seamstress;Dai Sijie;['Fiction', 'Historical Fiction', 'China', 'Asia', 'Historical', 'Books About Books', 'Asian Literature', 'Novels', 'Literature', 'School']
+Judgment in Death (In Death, #11);J.D. Robb;['Mystery', 'Romance', 'Crime', 'Fiction', 'Romantic Suspense', 'Futuristic', 'Suspense', 'Science Fiction', 'Mystery Thriller', 'Thriller']
+Flags of Our Fathers;James D. Bradley;['History', 'Nonfiction', 'Military Fiction', 'War', 'World War II', 'Biography', 'Military History', 'American History', 'Historical', 'Adult']
+Shadowland (The Mediator, #1);Meg Cabot;['Young Adult', 'Fantasy', 'Paranormal', 'Romance', 'Ghosts', 'Fiction', 'Supernatural', 'Mystery', 'Chick Lit', 'Teen']
+The Viscount Who Loved Me (Bridgertons, #2);Julia Quinn;['Romance', 'Historical Romance', 'Historical', 'Historical Fiction', 'Fiction', 'Regency', 'Adult', 'Audiobook', 'Regency Romance', 'Chick Lit']
+Stormbreaker (Alex Rider, #1);Anthony Horowitz;['Young Adult', 'Fiction', 'Adventure', 'Mystery', 'Thriller', 'Action', 'Espionage', 'Childrens', 'Middle Grade', 'Teen']
+Esperanza Rising;Pam Muñoz Ryan;['Historical Fiction', 'Young Adult', 'Middle Grade', 'Fiction', 'Childrens', 'Realistic Fiction', 'Historical', 'School', 'Cultural', 'Family']
+Scarlet Feather;Maeve Binchy;['Fiction', 'Chick Lit', 'Romance', 'Ireland', 'Contemporary', 'Irish Literature', 'Adult Fiction', 'Adult', 'Womens Fiction', 'Novels']
+Darkest Hour (The Mediator, #4);Jenny Carroll;['Young Adult', 'Paranormal', 'Fantasy', 'Romance', 'Ghosts', 'Fiction', 'Supernatural', 'Teen', 'Mystery', 'Chick Lit']
+Mixed Magics: Four Tales of Chrestomanci;Diana Wynne Jones;['Fantasy', 'Short Stories', 'Young Adult', 'Fiction', 'Childrens', 'Magic', 'Middle Grade', 'Science Fiction Fantasy', 'Anthologies', 'Young Adult Fantasy']
+Gathering Blue (The Giver, #2);Lois Lowry;['Young Adult', 'Dystopia', 'Fiction', 'Fantasy', 'Science Fiction', 'Middle Grade', 'Classics', 'Childrens', 'Audiobook', 'Teen']
+The Redbreast (Harry Hole, #3);Jo Nesbø;['Mystery', 'Crime', 'Fiction', 'Thriller', 'Mystery Thriller', 'Scandinavian Literature', 'Detective', 'Nordic Noir', 'Audiobook', 'Suspense']
+Anil's Ghost;Michael Ondaatje;['Fiction', 'Canada', 'Historical Fiction', 'Literary Fiction', 'Asia', 'Literature', 'Contemporary', 'Mystery', 'Novels', 'War']
+When We Were Orphans;Kazuo Ishiguro;['Fiction', 'Historical Fiction', 'Mystery', 'Literary Fiction', 'Historical', 'China', 'Novels', 'Contemporary', 'Literature', 'British Literature']
+The Empty Chair (Lincoln Rhyme, #3);Jeffery Deaver;['Mystery', 'Thriller', 'Fiction', 'Crime', 'Mystery Thriller', 'Suspense', 'Detective', 'Audiobook', 'Murder Mystery', 'Adult']
+The Measure of a Man: A Spiritual Autobiography;Sidney Poitier;['Nonfiction', 'Biography', 'Memoir', 'Autobiography', 'Biography Memoir', 'African American', 'Audiobook', 'History', 'Spirituality', 'Book Club']
+Witness in Death (In Death, #10);J.D. Robb;['Mystery', 'Romance', 'Crime', 'Romantic Suspense', 'Fiction', 'Futuristic', 'Suspense', 'Science Fiction', 'Thriller', 'Mystery Thriller']
+Founding Brothers: The Revolutionary Generation;Joseph J. Ellis;['History', 'Nonfiction', 'American History', 'American Revolution', 'Politics', 'Biography', 'Historical', 'Presidents', 'School', 'American Revolutionary War']
+The Glass Palace;Amitav Ghosh;['Fiction', 'Historical Fiction', 'India', 'Asia', 'Historical', 'Indian Literature', 'Literary Fiction', 'Novels', 'Literature', 'Travel']
+Winter Solstice;Rosamunde Pilcher;['Fiction', 'Christmas', 'Romance', 'Scotland', 'Holiday', 'Contemporary', 'Chick Lit', 'Audiobook', 'British Literature', 'Adult Fiction']
+Wish You Well;David Baldacci;['Fiction', 'Historical Fiction', 'Mystery', 'Thriller', 'Historical', 'Drama', 'Adult Fiction', 'Audiobook', 'Family', 'Adult']
+Look to Windward (Culture, #7);Iain M. Banks;['Science Fiction', 'Fiction', 'Space Opera', 'Cultural', 'Science Fiction Fantasy', 'Space', 'Fantasy', 'Speculative Fiction', 'Banks', 'Novels']
+Plain Truth;Jodi Picoult;['Fiction', 'Mystery', 'Contemporary', 'Chick Lit', 'Amish', 'Adult Fiction', 'Drama', 'Adult', 'Crime', 'Realistic Fiction']
+Open House;Elizabeth Berg;['Fiction', 'Chick Lit', 'Contemporary', 'Romance', 'Adult Fiction', 'Adult', 'Novels', 'Womens Fiction', 'Divorce', 'Audiobook']
+How to Train Your Dragon (How to Train Your Dragon, #1);Cressida Cowell;['Fantasy', 'Dragons', 'Middle Grade', 'Childrens', 'Fiction', 'Audiobook', 'Adventure', 'Young Adult', 'Humor', 'Juvenile']
+Blonde;Joyce Carol Oates;['Fiction', 'Historical Fiction', 'Historical', 'Novels', 'Literary Fiction', 'American', 'Literature', 'Contemporary', 'Audiobook', 'The United States Of America']
+First They Killed My Father: A Daughter of Cambodia Remembers;Loung Ung;['Nonfiction', 'History', 'Memoir', 'Biography', 'Asia', 'War', 'Biography Memoir', 'Autobiography', 'Historical', 'Politics']
+The Thief Lord;Cornelia Funke;['Fantasy', 'Young Adult', 'Fiction', 'Middle Grade', 'Childrens', 'Adventure', 'Mystery', 'Historical Fiction', 'Italy', 'Juvenile']
+In Pursuit of the Proper Sinner (Inspector Lynley, #10);Elizabeth  George;['Mystery', 'Fiction', 'Crime', 'Mystery Thriller', 'Thriller', 'British Literature', 'Detective', 'Suspense', 'Murder Mystery', 'Audiobook']
+Magic Steps (The Circle Opens, #1);Tamora Pierce;['Fantasy', 'Young Adult', 'Magic', 'Fiction', 'Young Adult Fantasy', 'High Fantasy', 'Teen', 'Science Fiction Fantasy', 'Middle Grade', 'Audiobook']
+A Year Down Yonder (A Long Way from Chicago, #2);Richard Peck;['Historical Fiction', 'Young Adult', 'Fiction', 'Childrens', 'Middle Grade', 'Humor', 'Historical', 'Juvenile', 'Realistic Fiction', 'Family']
+Carolina Moon;Nora Roberts;['Romance', 'Romantic Suspense', 'Mystery', 'Fiction', 'Contemporary Romance', 'Contemporary', 'Suspense', 'Paranormal', 'Chick Lit', 'Adult']
+Olivia (Olivia, #1);Ian Falconer;['Picture Books', 'Childrens', 'Fiction', 'Animals', 'Humor', 'Family', 'Fantasy', 'Classics', 'Art', 'Juvenile']
+Easy Prey (Lucas Davenport, #11);John Sandford;['Mystery', 'Fiction', 'Thriller', 'Crime', 'Mystery Thriller', 'Suspense', 'Detective', 'Audiobook', 'Murder Mystery', 'Police']
+The Last Precinct (Kay Scarpetta, #11);Patricia Cornwell;['Mystery', 'Fiction', 'Crime', 'Thriller', 'Mystery Thriller', 'Suspense', 'Murder Mystery', 'Detective', 'Audiobook', 'Medical']
+The Feast of the Goat;Mario Vargas Llosa;['Fiction', 'Historical Fiction', 'Novels', 'Spanish Literature', 'Latin American', 'Literature', 'Nobel Prize', 'Classics', 'Latin American Literature', 'Politics']
+Deep South (Anna Pigeon, #8);Nevada Barr;['Mystery', 'Fiction', 'Mystery Thriller', 'Suspense', 'Crime', 'Thriller', 'Audiobook', 'Southern', 'Detective', 'Nature']
+The Beatles Anthology;The Beatles;['Music', 'Nonfiction', 'Biography', 'History', 'Autobiography', 'Memoir', 'Pop Culture', 'Reference', 'Art', 'Biography Memoir']
+Ravelstein;Saul Bellow;['Fiction', 'Novels', 'Literature', 'American', 'Literary Fiction', 'Jewish', 'Classics', '21st Century', 'United States', 'Nobel Prize']
+The Red Tree;Shaun Tan;['Picture Books', 'Childrens', 'Graphic Novels', 'Fiction', 'Art', 'Mental Health', 'Fantasy', 'Comics', 'Australia', 'Young Adult']
+Shadow of the Hegemon (The Shadow Series, #2);Orson Scott Card;['Science Fiction', 'Fiction', 'Science Fiction Fantasy', 'Fantasy', 'Young Adult', 'Audiobook', 'Adventure', 'Novels', 'Space', 'War']
+Proof;David Auburn;['Plays', 'Drama', 'Theatre', 'Fiction', 'School', 'Read For School', 'Contemporary', 'Literature', 'College', 'Mathematics']
+Shopgirl;Steve Martin;['Fiction', 'Romance', 'Contemporary', 'Humor', 'Novella', 'Novels', 'Adult Fiction', 'Chick Lit', 'Adult', 'Audiobook']
+The Duke and I (Bridgertons, #1);Julia Quinn;['Romance', 'Historical Romance', 'Historical Fiction', 'Historical', 'Fiction', 'Audiobook', 'Adult', 'Regency', 'Chick Lit', 'Regency Romance']
+Mr. Perfect;Linda Howard;['Romance', 'Romantic Suspense', 'Suspense', 'Contemporary', 'Contemporary Romance', 'Mystery', 'Thriller', 'Fiction', 'Chick Lit', 'Humor']
+Lord Brocktree (Redwall, #13);Brian Jacques;['Fantasy', 'Fiction', 'Young Adult', 'Childrens', 'Animals', 'Adventure', 'Middle Grade', 'Science Fiction Fantasy', 'High Fantasy', 'Animal Fiction']
+Boundary Waters (Cork O'Connor, #2);William Kent Krueger;['Mystery', 'Fiction', 'Thriller', 'Audiobook', 'Mystery Thriller', 'Crime', 'Suspense', 'Adventure', 'Adult Fiction', 'Detective']
+Bee Season;Myla Goldberg;['Fiction', 'Jewish', 'Adult Fiction', 'Contemporary', 'Novels', 'Coming Of Age', 'Book Club', 'Literary Fiction', 'Adult', 'Religion']
+First Lady (Wynette, Texas, #4);Susan Elizabeth Phillips;['Romance', 'Contemporary Romance', 'Contemporary', 'Chick Lit', 'Fiction', 'Humor', 'Adult', 'Audiobook', 'Adult Fiction', 'Adventure']
+His Dark Materials Omnibus;Philip Pullman;['Fantasy', 'Fiction', 'Young Adult', 'Childrens', 'Science Fiction Fantasy', 'Science Fiction', 'Classics', 'Adventure', 'Steampunk', 'Middle Grade']
+Set in Darkness (Inspector Rebus, #11);Ian Rankin;['Crime', 'Mystery', 'Fiction', 'Scotland', 'Thriller', 'Detective', 'Mystery Thriller', 'Contemporary', 'Novels', 'Audiobook']
+P is for Peril (Kinsey Millhone, #16);Sue Grafton;['Mystery', 'Fiction', 'Crime', 'Detective', 'Mystery Thriller', 'Audiobook', 'Thriller', 'Suspense', 'Murder Mystery', 'Adult']
+Slammerkin: A Loose Dress, A Loose Woman;Emma Donoghue;['Historical Fiction', 'Fiction', 'Historical', 'British Literature', 'Literary Fiction', '18th Century', 'Prostitution', 'Canada', 'Adult Fiction', 'Adult']
+Civil War on Sunday (Magic Tree House, #21);Mary Pope Osborne;['Historical Fiction', 'Childrens', 'Fantasy', 'Fiction', 'Chapter Books', 'Adventure', 'Civil War']
+Whiteout;Ken Follett;['Thriller', 'Mystery', 'Suspense', 'Mystery Thriller', 'Crime', 'Audiobook', 'Historical Fiction', 'Novels', 'Contemporary', 'Adventure']
+Running Blind (Jack Reacher, #4);Lee Child;['Thriller', 'Fiction', 'Mystery', 'Crime', 'Suspense', 'Action', 'Mystery Thriller', 'Audiobook', 'Detective', 'Adventure']
+Tough Cookie (A Goldy Bear Culinary Mystery, #9);Diane Mott Davidson;['Mystery', 'Fiction', 'Cozy Mystery', 'Mystery Thriller', 'Food', 'Culinary', 'Humor', 'Adult Fiction', 'Cooking', 'Audiobook']
+London: The Biography;Peter Ackroyd;['History', 'Nonfiction', 'Travel', 'Biography', 'British Literature', 'Cities', 'Historical', 'Reference', 'Unfinished', 'Geography']
+Chocolate Chip Cookie Murder (Hannah Swensen, #1);Joanne Fluke;['Mystery', 'Cozy Mystery', 'Fiction', 'Mystery Thriller', 'Adult', 'Crime', 'Audiobook', 'Contemporary', 'Food', 'Chick Lit']
+Uncommon Grounds: The History of Coffee and How It Transformed Our World;Mark Pendergrast;['History', 'Nonfiction', 'Food', 'Microhistory', 'Food and Drink', 'Economics', 'World History', 'Food History', 'Cooking', 'Business']
+A Civil Campaign (Vorkosigan Saga, #12);Lois McMaster Bujold;['Science Fiction', 'Romance', 'Fiction', 'Space Opera', 'Science Fiction Fantasy', 'Fantasy', 'Humor', 'Audiobook', 'Space', 'Adventure']
+The Immaculate Deception (Jonathan Argyll, #7);Iain Pears;['Mystery', 'Fiction', 'Art', 'Italy', 'Crime', 'Mystery Thriller', 'British Literature', 'Detective', 'Thriller', 'Art History']
+When Genius Failed: The Rise and Fall of Long-Term Capital Management;Roger Lowenstein;['Finance', 'Business', 'Nonfiction', 'Economics', 'History', 'Money', 'Buisness', 'Biography', 'Personal Finance', 'Management']
+Revelation Space (Revelation Space, #1);Alastair Reynolds;['Science Fiction', 'Fiction', 'Space Opera', 'Space', 'Science Fiction Fantasy', 'Audiobook', 'Hard Science Fiction', 'Speculative Fiction', 'Horror', 'Aliens']
+Death of a Red Heroine (Inspector Chen Cao #1);Qiu Xiaolong;['Mystery', 'China', 'Fiction', 'Crime', 'Asia', 'Mystery Thriller', 'Thriller', 'Asian Literature', 'Detective', 'Novels']
+The Night Listener;Armistead Maupin;['Fiction', 'Mystery', 'LGBT', 'Gay', 'Contemporary', 'Queer', 'Gay Fiction', 'Novels', 'Literary Fiction', 'Thriller']
+The Bronze Horseman (The Bronze Horseman, #1);Paullina Simons;['Historical Fiction', 'Romance', 'Historical', 'Historical Romance', 'Fiction', 'War', 'Russia', 'Adult', 'World War II', 'Adult Fiction']
+This Heart of Mine (Chicago Stars, #5);Susan Elizabeth Phillips;['Romance', 'Contemporary Romance', 'Contemporary', 'Sports', 'Sports Romance', 'Chick Lit', 'Fiction', 'Adult', 'Humor', 'Audiobook']
+Lost and Found;Jayne Ann Krentz;['Romance', 'Romantic Suspense', 'Contemporary', 'Contemporary Romance', 'Mystery', 'Suspense', 'Fiction', 'Paranormal', 'Paranormal Romance', 'Adult']
+No Angel (The Spoils of Time, #1);Penny Vincenzi;['Historical Fiction', 'Fiction', 'Historical', 'Romance', 'British Literature', 'Chick Lit', 'Drama', 'War', 'Womens Fiction', 'World War I']
+Night Shield (Night Tales, #5);Nora Roberts;['Romance', 'Romantic Suspense', 'Contemporary Romance', 'Contemporary', 'Fiction', 'Mystery', 'Suspense', 'Harlequin', 'Mystery Thriller', 'Crime']
+The Highlander's Touch (Highlander, #3);Karen Marie Moning;['Romance', 'Time Travel', 'Historical Romance', 'Paranormal Romance', 'Paranormal', 'Fantasy', 'Historical', 'Historical Fiction', 'Fae', 'Adult']
+The Harry Bosch Novels, Volume 1: The Black Echo / The Black Ice / The Concrete Blonde (Harry Bosch,#1-3);Michael Connelly;['Mystery', 'Fiction', 'Thriller', 'Detective', 'Suspense', 'Crime', 'Mystery Thriller', 'Police', 'Collections', 'Audiobook']
+Merrick (The Vampire Chronicles, #7);Anne Rice;['Horror', 'Vampires', 'Fantasy', 'Fiction', 'Paranormal', 'Supernatural', 'Witches', 'Urban Fantasy', 'Gothic', 'Adult']
+Dr. Johnson's London;Liza Picard;['History', 'Nonfiction', 'British Literature', '18th Century', 'Research', 'Historical', 'Reference', 'Biography', 'Georgian', 'Unfinished']
+Marie Antoinette: Princess of Versailles, Austria - France, 1769;Kathryn Lasky;['Historical Fiction', 'Young Adult', 'Historical', 'Middle Grade', 'Childrens', 'Fiction', 'France', 'Diary', '18th Century', 'Juvenile']
+Lost Classics: Writers on Books Loved and Lost, Overlooked, Under-read, Unavailable, Stolen, Extinct, or Otherwise Out of Commission;Michael Ondaatje;['Books About Books', 'Nonfiction', 'Essays', 'Writing', 'History', 'Criticism', 'Literary Criticism', 'Anthologies', 'Literature', 'Canada']
+Transmetropolitan, Vol. 4: The New Scum;Warren Ellis;['Comics', 'Graphic Novels', 'Science Fiction', 'Fiction', 'Cyberpunk', 'Comic Book', 'Graphic Novels Comics', 'Dystopia', 'Humor', 'Comix']
+Declare;Tim Powers;['Fantasy', 'Fiction', 'Historical Fiction', 'Thriller', 'Science Fiction', 'Espionage', 'Horror', 'Alternate History', 'Urban Fantasy', 'Historical']
+1632;Eric Flint;['Alternate History', 'Science Fiction', 'Fiction', 'Time Travel', 'Fantasy', 'Historical Fiction', 'Historical', 'War', 'Science Fiction Fantasy', 'Military Fiction']
+Maire (Fires of Gleannmara, #1);Linda Windsor;['Historical Fiction', 'Christian Fiction', 'Romance', 'Christian', 'Historical', 'Fiction', 'Christian Romance', 'Historical Romance', 'Medieval', 'Ireland']
+English Passengers;Matthew Kneale;['Historical Fiction', 'Fiction', 'Australia', 'Historical', 'Travel', 'Adventure', 'Literature', 'Tasmania', 'Literary Fiction', 'Novels']
+South with Endurance: Shackleton's Antarctic Expedition 1914-1917;Frank Hurley;['History', 'Nonfiction', 'Photography', 'Travel', 'Adventure', 'Biography', 'Art', 'Survival', 'Historical', '20th Century']
+Kit's Wilderness;David Almond;['Young Adult', 'Fiction', 'Fantasy', 'Historical Fiction', 'Middle Grade', 'Teen', 'Magical Realism', 'Childrens', 'Realistic Fiction', 'Death']
+The Cat Who Smelled a Rat (Cat Who..., #23);Lilian Jackson Braun;['Mystery', 'Fiction', 'Cozy Mystery', 'Cats', 'Animals', 'Crime', 'Mystery Thriller', 'Adult', 'Humor', 'Murder Mystery']
+Obsidian Butterfly (Anita Blake, Vampire Hunter, #9);Laurell K. Hamilton;['Urban Fantasy', 'Vampires', 'Paranormal', 'Fantasy', 'Romance', 'Horror', 'Paranormal Romance', 'Fiction', 'Supernatural', 'Werewolves']
+The Tower at Stony Wood;Patricia A. McKillip;['Fantasy', 'Fiction', 'High Fantasy', 'Science Fiction Fantasy', 'Fairy Tales', 'Magic', 'Young Adult', 'Dragons', 'Adventure', 'Novels']
+Half Moon Street (Charlotte & Thomas Pitt, #20);Anne Perry;['Mystery', 'Historical Fiction', 'Historical Mystery', 'Fiction', 'Historical', 'Mystery Thriller', 'Crime', 'Victorian', 'British Literature', 'Adult']
+Valor's Choice (Confederation, #1);Tanya Huff;['Science Fiction', 'Space Opera', 'Military Fiction', 'Fiction', 'Fantasy', 'Military Science Fiction', 'Aliens', 'Science Fiction Fantasy', 'War', 'Space']
+Transformation (Rai-Kirah, #1);Carol Berg;['Fantasy', 'Fiction', 'High Fantasy', 'Magic', 'Epic Fantasy', 'Science Fiction Fantasy', 'Demons', 'Epic', 'Adult', 'Science Fiction']
+Mendoza in Hollywood (The Company, #3);Kage Baker;['Science Fiction', 'Time Travel', 'Fiction', 'Fantasy', 'Historical Fiction', 'Historical', 'Science Fiction Fantasy', 'Speculative Fiction', 'Alternate History', 'Westerns']
+Bad Blood;Lorna Sage;['Nonfiction', 'Memoir', 'Biography', 'Biography Memoir', 'Autobiography', 'British Literature', 'Family', 'History', 'Childrens', '21st Century']
+The Last Report on the Miracles at Little No Horse;Louise Erdrich;['Fiction', 'Historical Fiction', 'Magical Realism', 'Historical', 'Literary Fiction', 'Novels', 'Book Club', 'Literature', 'Audiobook', 'Adult']
+Give a Boy a Gun;Todd Strasser;['Young Adult', 'Fiction', 'Realistic Fiction', 'Contemporary', 'School', 'Teen', 'High School', 'Crime', 'Childrens', 'Read For School']
+The Shamer's Daughter (The Shamer Chronicles, #1);Lene Kaaberbøl;['Fantasy', 'Young Adult', 'Fiction', 'Danish', 'Dragons', 'Middle Grade', 'Childrens', 'Magic', 'Adventure', 'High Fantasy']
+The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else;Hernando de Soto;['Economics', 'Nonfiction', 'Politics', 'History', 'Business', 'Finance', 'International Development', 'Philosophy', 'Economic Development', 'Law']
+Gulag: A History;Anne Applebaum;['History', 'Nonfiction', 'Russia', 'Politics', 'Russian History', 'War', 'Historical', 'European History', 'World History', 'Soviet Union']
+The Nameless Day (The Crucible, #1);Sara Douglass;['Fantasy', 'Historical Fiction', 'Fiction', 'Historical Fantasy', 'Historical', 'Science Fiction Fantasy', 'Science Fiction', 'Alternate History', 'Adult', 'Epic Fantasy']
+Dreamland;Sarah Dessen;['Young Adult', 'Contemporary', 'Romance', 'Fiction', 'Realistic Fiction', 'Chick Lit', 'Abuse', 'Teen', 'Young Adult Contemporary', 'High School']
+The Sea Road;Margaret Elphinstone;['Historical Fiction', 'Fiction', 'Historical', 'Medieval', 'Adventure', 'Canada', 'Scandinavian Literature', 'Classics', '11th Century', 'Unfinished']
+Fearless: Imagine Your Life Without Fear;Max Lucado;['Christian', 'Nonfiction', 'Christianity', 'Faith', 'Self Help', 'Christian Living', 'Religion', 'Spirituality', 'Inspirational', 'Christian Non Fiction']
+The Glasswrights' Apprentice (Glasswright, #1);Mindy Klasky;['Fantasy', 'Young Adult', 'Fiction', 'Science Fiction Fantasy', 'High Fantasy', 'Romance', 'Science Fiction', 'Young Adult Fantasy', 'Adult', 'Epic Fantasy']
+The Wish;Gail Carson Levine;['Fantasy', 'Young Adult', 'Middle Grade', 'Fiction', 'Childrens', 'Romance', 'Fairy Tales', 'Magic', 'Contemporary', 'Teen']
+Heartbreaker (Buchanan-Renard, #1);Julie Garwood;['Romance', 'Romantic Suspense', 'Suspense', 'Mystery', 'Contemporary', 'Contemporary Romance', 'Fiction', 'Thriller', 'Mystery Thriller', 'Adult']
+Duty:  A Father, His Son, and the Man Who Won the War;Bob  Greene;['History', 'Biography', 'Nonfiction', 'War', 'World War II', 'Memoir', 'Military Fiction', 'Historical', 'World History']
+Pastoralia;George Saunders;['Short Stories', 'Fiction', 'Humor', 'Literature', 'American', 'Literary Fiction', 'Contemporary', 'Science Fiction', 'The United States Of America', 'Short Story Collection']
+The Prometheus Deception: A Novel;Robert Ludlum;['Fiction', 'Thriller', 'Espionage', 'Mystery', 'Suspense', 'Action', 'Spy Thriller', 'Adventure', 'Mystery Thriller', 'Audiobook']
+Skeleton Dance;Aaron Elkins;['Mystery', 'Fiction', 'Cozy Mystery', 'France', 'Mystery Thriller', 'Detective', 'Humor', 'Crime', 'Thriller', 'Contemporary']
+The Sibyl in Her Grave (Hilary Tamar, #4);Sarah Caudwell;['Mystery', 'Fiction', 'Mystery Thriller', 'British Literature', 'Humor', 'Crime', 'Adult', 'Law', 'Historical Mystery', 'Cozy Mystery']
+Dawn on a Distant Shore (Wilderness, #2);Sara Donati;['Historical Fiction', 'Romance', 'Fiction', 'Historical', 'Historical Romance', 'Adventure', 'Scotland', 'Audiobook', 'Adult', 'Wilderness']
+Twenty Fragments of a Ravenous Youth;Xiaolu Guo;['Fiction', 'China', 'Asia', 'Contemporary', 'Literary Fiction', 'Asian Literature', 'Literature', 'Novels', 'Coming Of Age', 'Chinese Literature']
+The Countess;Gregory  Murphy;['Plays', 'Theatre']
+The Heart of Redness;Zakes Mda;['Africa', 'Fiction', 'South Africa', 'Historical Fiction', 'African Literature', 'Magical Realism', 'Literature', '21st Century', 'Literary Fiction', 'Historical']
+A Kiss of Shadows (Merry Gentry, #1);Laurell K. Hamilton;['Fantasy', 'Urban Fantasy', 'Paranormal', 'Romance', 'Paranormal Romance', 'Fae', 'Fiction', 'Erotica', 'Magic', 'Adult']
+Where Is the Mango Princess?: A Journey Back from Brain Injury;Cathy Crimmins;['Nonfiction', 'Memoir', 'Medical', 'Biography', 'Psychology', 'Biography Memoir', 'Disability', 'Neuroscience', 'Medicine', 'Science']
+The Hostile Hospital (A Series of Unfortunate Events, #8);Lemony Snicket;['Fiction', 'Young Adult', 'Childrens', 'Middle Grade', 'Fantasy', 'Mystery', 'Adventure', 'Audiobook', 'Humor', 'Juvenile']
+The Informant;Kurt Eichenwald;['Nonfiction', 'Business', 'True Crime', 'History', 'Crime', 'Biography', 'Politics', 'Finance', 'Economics', 'Law']
+The Beet Fields: Memories of a Sixteenth Summer;Gary Paulsen;['Young Adult', 'Fiction', 'Coming Of Age', 'Historical Fiction', 'Realistic Fiction', 'Teen', 'Banned Books', 'Historical', 'Middle Grade', 'Adult']
+Aiding and Abetting;Muriel Spark;['Fiction', 'Mystery', 'British Literature', 'Literary Fiction', 'Novels', 'Scotland', 'Crime']
+Life Is So Good: One Man's Extraordinary Journey through the 20th Century and How he Learned to Read at Age 98;George Dawson;['Nonfiction', 'Memoir', 'Biography', 'Biography Memoir', 'Autobiography', 'African American', 'History', 'Inspirational', 'Book Club', 'American History']
+Tigers in the Snow;Peter Matthiessen;['Nature', 'Nonfiction', 'Animals', 'Science', 'Natural History', 'Asia', 'Cats', 'Conservation', 'Travel', 'Ecology']
+Queen of the Darkness (The Black Jewels, #3);Anne Bishop;['Fantasy', 'Romance', 'Magic', 'Fiction', 'Dark Fantasy', 'High Fantasy', 'Paranormal', 'Science Fiction Fantasy', 'Witches', 'Dark']
+The Ice Limit (Ice Limit, #1);Douglas Preston;['Thriller', 'Fiction', 'Mystery', 'Adventure', 'Science Fiction', 'Suspense', 'Mystery Thriller', 'Action', 'Horror', 'Audiobook']
+The Wanderer;Sharon Creech;['Young Adult', 'Fiction', 'Middle Grade', 'Adventure', 'Realistic Fiction', 'Childrens', 'Juvenile', 'Contemporary', 'Family', 'Coming Of Age']
+Brunelleschi's Dome: How a Renaissance Genius Reinvented Architecture;Ross King;['History', 'Nonfiction', 'Art', 'Architecture', 'Italy', 'Art History', 'Biography', 'Science', 'Historical', 'European History']
+Standing in the Rainbow (Elmwood Springs, #2);Fannie Flagg;['Fiction', 'Humor', 'Chick Lit', 'Southern', 'Historical Fiction', 'Adult Fiction', 'Contemporary', 'Family', 'Audiobook', 'Novels']
+Experience: A Memoir;Martin Amis;['Nonfiction', 'Memoir', 'Biography', 'Autobiography', 'Biography Memoir', 'Literature', 'British Literature', '21st Century', 'Literary Fiction', 'Contemporary']
+Slaves of Obsession (William Monk, #11);Anne Perry;['Mystery', 'Historical Fiction', 'Historical Mystery', 'Fiction', 'Historical', 'Victorian', 'Crime', 'British Literature', 'Mystery Thriller', '19th Century']
+The Grand Ellipse: A Novel;Paula Volsky;['Fantasy', 'Steampunk', 'Fiction', 'Adventure', 'Science Fiction', 'Romance', 'Science Fiction Fantasy', 'Adult', 'High Fantasy', 'Epic Fantasy']
+Bridesmaids Revisited (Ellie Haskell Mystery, #9);Dorothy Cannell;['Mystery', 'Fiction', 'Cozy Mystery', 'British Literature', 'Audiobook', 'Amateur Sleuth', 'Humor', 'Mystery Thriller']
+Night Shield & Night Moves (Night Tales, #5);Nora Roberts;['Romance', 'Contemporary Romance', 'Contemporary', 'Fiction', 'Romantic Suspense', 'Mystery', 'Suspense', 'Paranormal Romance', 'Fantasy', 'Paranormal']
+Revolutionary War on Wednesday (Magic Tree House, #22);Mary Pope Osborne;['Historical Fiction', 'Fantasy', 'Childrens', 'Fiction', 'Chapter Books', 'Adventure', 'Time Travel']
+The Miraculous Journey of Edward Tulane;Kate DiCamillo;['Fantasy', 'Fiction', 'Childrens', 'Middle Grade', 'Young Adult', 'Adventure', 'Animals', 'Juvenile', 'Audiobook', 'Chapter Books']
+Confessions of a Shopaholic (Shopaholic, #1);Sophie Kinsella;['Chick Lit', 'Fiction', 'Romance', 'Contemporary', 'Humor', 'Adult', 'Adult Fiction', 'Contemporary Romance', 'Comedy', 'Young Adult']
+Sushi for Beginners;Marian Keyes;['Chick Lit', 'Fiction', 'Romance', 'Contemporary', 'Ireland', 'Humor', 'Irish Literature', 'Contemporary Romance', 'Adult', 'Womens Fiction']
+The Vision of Emma Blau;Ursula Hegi;['Fiction', 'Historical Fiction', 'Literary Fiction', 'Germany', 'Adult Fiction', 'Historical', 'Novels', 'German Literature', 'Literature', 'Family']
+Sharpe's Trafalgar (Sharpe, #4);Bernard Cornwell;['Historical Fiction', 'Fiction', 'Historical', 'War', 'Adventure', 'Military Fiction', 'Audiobook', 'Action', 'Novels', '19th Century']
+I Will Never Not Ever Eat a Tomato;Lauren Child;['Picture Books', 'Childrens', 'Food', 'Fiction', 'Humor', 'Family', 'Nutrition', 'Storytime', 'Realistic Fiction', 'Juvenile']
+A Conspiracy of Paper (Benjamin Weaver, #1);David Liss;['Historical Fiction', 'Fiction', 'Mystery', 'Historical', 'Historical Mystery', 'Thriller', '18th Century', 'Mystery Thriller', 'Crime', 'British Literature']
+Baby ER: The Heroic Doctors and Nurses Who Perform Medicine's Tiniest Miracles;Edward Humes;['Nonfiction', 'Medical', 'Science', 'Nursing', 'Health', 'Medicine']
+Mars Crossing;Geoffrey A. Landis;['Science Fiction', 'Fiction', 'Science Fiction Fantasy', 'Hard Science Fiction', 'Novels', 'Fantasy']
+The Stanislaski Brothers: Mikhail and Alex (Stanislaskis #2 & 4);Nora Roberts;['Romance', 'Contemporary Romance', 'Contemporary', 'Fiction', 'Chick Lit', 'Adult', 'Anthologies', 'Modern', 'Family', 'Category Romance']
+Drowning Ruth;Christina Schwarz;['Fiction', 'Mystery', 'Historical Fiction', 'Contemporary', 'Adult Fiction', 'Adult', 'Historical', 'Book Club', 'Novels', 'Mystery Thriller']
+Grasshopper;Barbara Vine;['Fiction', 'Mystery', 'Thriller', 'Crime', 'Suspense', 'Mystery Thriller', 'British Literature', 'Contemporary', 'Audiobook', 'Drama']
+A Game of Chance (Mackenzie Family, #4);Linda Howard;['Romance', 'Contemporary Romance', 'Contemporary', 'Romantic Suspense', 'Suspense', 'Military Fiction', 'Fiction', 'Harlequin', 'Adult', 'Mystery']
+Wheel of the Infinite;Martha Wells;['Fantasy', 'Fiction', 'High Fantasy', 'Science Fiction Fantasy', 'Magic', 'Epic Fantasy', 'Science Fiction', 'Romance', 'Sci Fi Fantasy', 'Mystery']
+Witch Child (Witch Child, #1);Celia Rees;['Historical Fiction', 'Young Adult', 'Fantasy', 'Historical', 'Fiction', 'Witches', 'Paranormal', 'Magic', 'Teen', 'Childrens']
+Peter Rabbit's Giant Storybook;Beatrix Potter;['Childrens', 'Classics', 'Fantasy', 'Picture Books']
+Swan in Love;Eve Bunting;['Picture Books', 'Childrens']
+Not Even My Name: A True Story;Thea Halo;['Nonfiction', 'History', 'Memoir', 'Biography', 'Greece', 'Historical', 'War', 'Biography Memoir', 'The United States Of America', 'World War I']
+Divine and Human and Other Stories;Leo Tolstoy;['Fiction', 'Short Stories', 'Russia']
+The Cave;José Saramago;['Fiction', 'Portugal', 'Literature', 'Novels', 'Portuguese Literature', 'Nobel Prize', 'Dystopia', 'Classics', 'Philosophy', 'Literary Fiction']
+The Train Now Departing;Martha Grimes;['Mystery', 'Fiction', 'Short Stories', 'Novella', 'British Literature', 'Literary Fiction', 'Adult', 'Thriller']
+Matilda Bone;Karen Cushman;['Historical Fiction', 'Young Adult', 'Fiction', 'Middle Grade', 'Historical', 'Childrens', 'Medieval']
+Code to Zero;Ken Follett;['Fiction', 'Thriller', 'Historical Fiction', 'Mystery', 'Suspense', 'Espionage', 'Mystery Thriller', 'Historical', 'Adventure', 'Audiobook']
+"The Jack Harvey Novels: Witch Hunt; Bleeding Hearts; Blood Hunt";Jack Harvey;['Crime', 'Fiction', 'Thriller', 'Mystery', 'Mystery Thriller']
+Mrs. Pollifax Unveiled (Mrs. Pollifax, #14);Dorothy Gilman;['Mystery', 'Fiction', 'Cozy Mystery', 'Adventure', 'Espionage', 'Audiobook', 'Suspense', 'Mystery Thriller', 'Adult', 'Thriller']
+Roses Are Red (Alex Cross, #6);James Patterson;['Mystery', 'Fiction', 'Thriller', 'Crime', 'Suspense', 'Mystery Thriller', 'Detective', 'Murder Mystery', 'Adult', 'Audiobook']
+Purple Cane Road (Dave Robicheaux, #11);James Lee Burke;['Mystery', 'Fiction', 'Crime', 'Thriller', 'Mystery Thriller', 'Detective', 'Suspense', 'Hard Boiled', 'Noir', 'Southern']
+The Lion's Game (John Corey, #2);Nelson DeMille;['Fiction', 'Thriller', 'Mystery', 'Suspense', 'Mystery Thriller', 'Crime', 'Action', 'Terrorism', 'Audiobook', 'Adventure']
+Elizabeth: The Struggle for the Throne;David Starkey;['History', 'Nonfiction', 'Biography', 'Tudor Period', 'Historical', 'British Literature', 'Biography Memoir', '16th Century', 'European History', 'Politics']
+Killing the Shadows;Val McDermid;['Mystery', 'Crime', 'Fiction', 'Thriller', 'Mystery Thriller', 'Suspense', 'British Literature', 'Audiobook', 'Murder Mystery', 'Contemporary']
+The Return of the Dancing Master;Henning Mankell;['Mystery', 'Crime', 'Fiction', 'Thriller', 'Sweden', 'Scandinavian Literature', 'Mystery Thriller', 'Swedish Literature', 'Detective', 'Nordic Noir']
+Hugger Mugger (Spenser, #27);Robert B. Parker;['Mystery', 'Fiction', 'Detective', 'Crime', 'Mystery Thriller', 'Thriller', 'Suspense', 'Hard Boiled', 'Horses', 'Racing']
+Wicked Fix (Home Repair is Homicide, #3);Sarah Graves;['Mystery', 'Cozy Mystery', 'Fiction', 'Mystery Thriller', 'Audiobook', 'Paranormal', 'Humor', 'Murder Mystery']
+The Pale Abyssinian;Miles Bredin;['Travel', 'Biography', 'History', 'Nonfiction', 'Africa']
+Shrub: The Short but Happy Political Life of George W. Bush;Molly Ivins;['Politics', 'Nonfiction', 'Biography', 'Humor', 'History', 'Essays', 'Presidents', 'Government', 'Journalism', 'Political Science']
+Heart of the Sea (Gallaghers of Ardmore, #3);Nora Roberts;['Romance', 'Contemporary Romance', 'Fiction', 'Fantasy', 'Contemporary', 'Paranormal', 'Ireland', 'Chick Lit', 'Paranormal Romance', 'Adult']
+The Sugar House (Tess Monaghan, #5);Laura Lippman;['Mystery', 'Fiction', 'Mystery Thriller', 'Audiobook', 'Crime', 'Suspense', 'Detective', 'Thriller', 'Contemporary', 'Adult']
+Turkey Day Murder (A Lucy Stone Mystery, #7);Leslie Meier;['Mystery', 'Cozy Mystery', 'Fiction', 'Holiday', 'Audiobook', 'Contemporary', 'Mystery Thriller', 'Murder Mystery']
+Riptide (FBI Thriller, #5);COULTER CATHERINE;['Mystery', 'Romance', 'Suspense', 'Fiction', 'Thriller', 'Romantic Suspense', 'Mystery Thriller', 'Crime', 'Contemporary', 'Audiobook']
+Hitler the Cat Goes West;Robert G. Pielke;['Fiction', 'Dystopia']
+Of Marriageable Age;Sharon Maas;['Fiction', 'Historical Fiction', 'India', 'Historical', 'Asia', 'Roman', 'Indian Literature', 'Contemporary', 'Novels', '20th Century']
+Stuck in Neutral;Terry Trueman;['Young Adult', 'Realistic Fiction', 'Fiction', 'Disability', 'Teen', 'Family', 'Contemporary', 'Middle Grade', 'Suspense', 'Mystery']
+Thursday's Child;Sonya Hartnett;['Young Adult', 'Fiction', 'Historical Fiction', 'Historical', 'Australia', 'Teen', 'Coming Of Age', 'Family', 'Magical Realism', 'Young Adult Historical Fiction']
+The New City;Stephen Amidon;['Fiction', 'Thriller', 'Historical Fiction']
+Kangaroo Dreaming: An Australian Wildlife Odyssey;Edward Kanze;['Australia', 'Travel', 'Nature', 'Nonfiction']
+PIGLET, Giant Shaped Board Book;Sarah Ketchersid;['Childrens', 'Animals']
+The Slynx;Tatyana Tolstaya;['Fiction', 'Russia', 'Science Fiction', 'Dystopia', 'Russian Literature', 'Post Apocalyptic', 'Fantasy', 'Novels', 'Apocalyptic', 'Literature']
+Friends in High Places (Commissario Brunetti, #9);Donna Leon;['Mystery', 'Crime', 'Fiction', 'Italy', 'Mystery Thriller', 'Detective', 'Audiobook', 'Thriller', 'Novels', 'Police']
+Black Mass: The Irish Mob, The FBI and A Devil's Deal;Dick Lehr;['Nonfiction', 'True Crime', 'History', 'Crime', 'Biography', 'American History', 'Media Tie In', 'Historical', 'Audiobook', 'Irish Literature']
+Rule by Secrecy: The Hidden History that Connects the Trilateral Commission, the Freemasons & the Great Pyramids;Jim Marrs;['Conspiracy Theories', 'History', 'Nonfiction', 'Politics', 'Occult', 'Sociology', 'Science', 'Religion', 'Mystery', 'Economics']
+L'événement;Annie Ernaux;['Nonfiction', 'Memoir', 'Feminism', 'France', 'Biography', 'French Literature', 'Contemporary', 'Nobel Prize', 'Womens', 'Audiobook']
+The Minotaur Takes a Cigarette Break;Steven Sherrill;['Fiction', 'Fantasy', 'Mythology', 'Magical Realism', 'Audiobook', 'Novels', 'Humor', 'Literature', 'Literary Fiction', 'Contemporary']
+The Death of Kings: A Medical History of the Kings and Queens of England;Clifford Brewer;['History', 'Nonfiction', 'Science', 'Medical', 'British Literature', 'Medicine', 'European History', 'Biography', 'Death', 'Tudor Period']
+House of Leaves;Mark Z. Danielewski;['Horror', 'Fiction', 'Fantasy', 'Mystery', 'Thriller', 'Contemporary', 'Novels', 'Adult', 'Literature', 'Paranormal']
+The Nazi War on Cancer;Robert N. Proctor;['History', 'Science', 'Nonfiction', 'Holocaust', 'Politics', 'War', 'European History', 'Medicine', 'World War II', 'Germany']
+From Our House: A Memoir;Lee  Martin;['Memoir', 'Nonfiction', 'Family', 'Coming Of Age']
+Sacred Marriage: Celebrating Marriage as a Spiritual Discipline;Gary L. Thomas;['Marriage', 'Christian', 'Nonfiction', 'Relationships', 'Faith', 'Christianity', 'Christian Living', 'Religion', 'Theology', 'Family']
+The Return of the Twitches;Roy Apps;no
+Take the Cannoli: Stories from the New World;Sarah Vowell;['Nonfiction', 'Essays', 'Humor', 'Memoir', 'History', 'Short Stories', 'Comedy', 'Biography', 'Politics', 'Historical']
+Double Cross: Rahasia Keluarga Shackleton;Norah McClintock;['Mystery', 'Young Adult', 'Canada', 'Mystery Thriller', 'Fiction']
+Le calice noir. Le secret des Templiers (Les enfants du Graal, #4.1);Peter Berling;no
+Fitness For Duty: Principles, Methods, And Legal Issues;Anthony Stone;['Business', 'Psychology']
+Journey of the Pink Dolphins: An Amazon Quest;Sy Montgomery;['Nonfiction', 'Animals', 'Science', 'Nature', 'Travel', 'Natural History', 'Adventure', 'Memoir', 'Biology', 'Ecology']
+Shenzhen: A Travelogue from China;Guy Delisle;['Graphic Novels', 'Comics', 'Nonfiction', 'Travel', 'China', 'Bande Dessinée', 'Memoir', 'Graphic Novels Comics', 'Asia', 'Canada']
+Pig and Crow;Kay Chorao;['Picture Books', 'Fantasy', 'Animals', 'Childrens']
+"""A Problem from Hell"": America and the Age of Genocide";Samantha Power;['Nonfiction', 'History', 'Politics', 'War', 'Africa', 'American History', 'International Relations', 'Political Science', 'Social Justice', 'World History']
+Tomboy;Nina Bouraoui;['France', 'Fiction', 'Algeria', 'Africa', 'LGBT', 'Queer', '21st Century', 'School', 'Roman', 'Northern Africa']
+Monkey Business: The Lives and Legends of The Marx Brothers;Simon Louvish;['Biography', 'Nonfiction', 'Comedy', 'Film', 'History', 'Humor', 'Media Tie In', 'Biography Memoir']
+Hearts in Darkness (Nikki & Michael, #2);Keri Arthur;['Paranormal', 'Vampires', 'Paranormal Romance', 'Urban Fantasy', 'Fantasy', 'Romance', 'Magic', 'Supernatural', 'Adult', 'Mystery']
+The Viceroy's Daughters: The Lives of the Curzon Sisters;Anne de Courcy;['Biography', 'History', 'Nonfiction', 'British Literature', 'Biography Memoir', 'India', 'Historical', 'Autobiography', 'Family', 'World War II']
+The Kill Artist (Gabriel Allon, #1);Daniel Silva;['Fiction', 'Thriller', 'Mystery', 'Espionage', 'Mystery Thriller', 'Suspense', 'Spy Thriller', 'Crime', 'Audiobook', 'Action']
+Homeless (Wild at Heart, #2);Laurie Halse Anderson;['Animals', 'Childrens', 'Fiction', 'Middle Grade', 'Realistic Fiction', 'Cats', 'Young Adult', 'Young Readers', 'Animal Fiction']
+Ducky: Diary 3 (California Diaries, #15);Ann M. Martin;['Young Adult', 'Middle Grade', 'Fiction', 'Contemporary', 'Childrens', 'Diary']
+The Last Book in the Universe;Rodman Philbrick;['Young Adult', 'Science Fiction', 'Dystopia', 'Fiction', 'Adventure', 'Middle Grade', 'Post Apocalyptic', 'Fantasy', 'School', 'Childrens']
+On Writing: A Memoir of the Craft;Stephen King;['Nonfiction', 'Writing', 'Memoir', 'Biography', 'Reference', 'Audiobook', 'Autobiography', 'Biography Memoir', 'Self Help', 'Books About Books']
+Stalins verhinderter Erstschlag: Hitler erstickt die Weltrevolution;Viktor Suvorov;['History', 'Russia', 'Nonfiction', 'Historical', 'War']
+The Spiral Stair (Arabel and Mortimer, #6);Joan Aiken;['Childrens', 'Animals', 'Fantasy']
+Plastic Jesus;Poppy Z. Brite;['Fiction', 'LGBT', 'Romance', 'M M Romance', 'Gay', 'Horror', 'Music', 'Science Fiction', 'Gay Fiction', 'Fan Fiction']
+Flash Point;James W. Huston;['Fiction', 'Thriller', 'Military Fiction', 'Mystery']
+The Sphinx (Area 51, #4);Robert Doherty;['Science Fiction', 'Fiction', 'Aliens', 'Paranormal', 'Military Fiction', 'Thriller', 'Fantasy', 'Adventure', 'Science Fiction Fantasy', 'Audiobook']
+A Secret Love (Cynster, #5);Stephanie Laurens;['Historical Romance', 'Romance', 'Historical', 'Regency', 'Historical Fiction', 'Regency Romance', 'Fiction', 'Adult', 'Audiobook', 'British Literature']
+The Last Prairie: A Sandhills Journal;Stephen R. Jones;['Nonfiction', 'Travel', 'History', 'Nature']
+Searching for God Knows What;Donald Miller;['Christian', 'Nonfiction', 'Religion', 'Christianity', 'Faith', 'Spirituality', 'Theology', 'Memoir', 'Christian Living', 'Christian Non Fiction']
+The Case for Faith: A Journalist Investigates the Toughest Objections to Christianity;Lee Strobel;['Christian', 'Nonfiction', 'Religion', 'Christianity', 'Theology', 'Faith', 'Spirituality', 'Christian Non Fiction', 'Christian Living', 'Philosophy']
+The Invisible Ring (The Black Jewels, #4);Anne Bishop;['Fantasy', 'Romance', 'Fiction', 'Magic', 'Dark Fantasy', 'High Fantasy', 'Science Fiction Fantasy', 'Paranormal', 'Witches', 'Fantasy Romance']
+The Country Under My Skin: A Memoir of Love and War;Gioconda Belli;['Nonfiction', 'Memoir', 'History', 'Biography', 'Politics', 'Spanish Literature', 'Biography Memoir', 'Latin American', 'Feminism', 'Autobiography']
+The House on Hope Street;Danielle Steel;['Romance', 'Fiction', 'Chick Lit', 'Drama', 'Contemporary', 'Contemporary Romance', 'Novels', 'Love', 'Christmas', 'Adult']
+The Most Dangerous Enemy: A History of the Battle of Britain;Stephen Bungay;['History', 'World War II', 'Nonfiction', 'War', 'Military History', 'Military Fiction', 'Aviation', 'Battle Of Britain', 'British Literature', 'Germany']
+The Mammoth Book of Oddballs and Eccentrics;Karl Shaw;['Nonfiction', 'Humor', 'History', 'Trivia', 'Reference', 'Biography']
+How to Draw a Clam: A Wonderful Vacation Planner;Joy Sikorski;['Humor', 'Art', 'Nonfiction']
+Der Geschichtenverkäufer;Jostein Gaarder;['Fiction', 'Philosophy', 'Contemporary', 'Novels', 'Scandinavian Literature', 'Fantasy', 'Magical Realism', 'Literature', 'Adult', 'Roman']
+Greek Fire: The Story of Maria Callas and Aristotle Onassis;Nicholas Gage;['Biography', 'Nonfiction', 'Music', 'Greece', 'Biography Memoir']
+The Myth of the Lost Cause and Civil War History;Gary W. Gallagher;['History', 'Civil War', 'American Civil War', 'American History', 'Nonfiction', 'Politics', 'Military History', 'Military Fiction', 'War', 'Essays']
+In the Footsteps of Mr. Kurtz: Living on the Brink of Disaster in Mobutu's Congo;Michela Wrong;['Africa', 'History', 'Nonfiction', 'Politics', 'Biography', 'Travel', 'Economics', 'War', '20th Century', 'Democratic Republic Of The Congo']
+Black Dog (Ben Cooper & Diane Fry, #1);Stephen Booth;['Mystery', 'Crime', 'Fiction', 'British Literature', 'Thriller', 'Mystery Thriller', 'Suspense', 'Detective', 'Adult Fiction', 'Police']
+Blood Sugar;Nicole Blackman;['Poetry', 'Fiction', 'Womens']
+Dark Tide II: Ruin (Star Wars: The New Jedi Order, #3);Michael A. Stackpole;['Star Wars', 'Science Fiction', 'Fiction', 'Fantasy', 'Science Fiction Fantasy', 'Space Opera', 'Media Tie In', 'Novels', 'War', 'Space']
+The Bride and the Beast (Once Upon a Time, #2);Teresa Medeiros;['Historical Romance', 'Romance', 'Historical', 'Beauty and The Beast', 'Historical Fiction', 'Fairy Tales', 'Fiction', 'Fantasy', 'Adult', 'Medieval']
+Et si c'était vrai...;Marc Levy;['Romance', 'Fiction', 'France', 'Contemporary', 'Fantasy', 'Chick Lit', 'French Literature', 'Roman', 'Paranormal', 'Novels']
+Practicing New Historicism;Catherine Gallagher;['Nonfiction', 'History', 'Literary Criticism', 'Criticism', 'Philosophy', 'Theory']
+Schooled;Gordon Korman;['Young Adult', 'Realistic Fiction', 'Fiction', 'Middle Grade', 'Humor', 'School', 'Childrens', 'Contemporary', 'Teen', 'Juvenile']
+Where Is Baby's Belly Button? A Lift-the-Flap Book;Karen Katz;['Picture Books', 'Childrens', 'Storytime', 'Kids', 'Fiction', 'Family', 'Juvenile']
+Partners;Susan Sizemore;no
+Pretty Good Joke Book;Garrison Keillor;['Humor', 'Nonfiction', 'Comedy', 'Reference']
+Astrology for Life;V. K. Choudhry;['Astrology']
+Squeaky Chalk: And Other Fun Things to Draw (And Do) When There's Nothing to Do!;Joy Sikorski;['Art']
+Vatertage: Beziehungsgeschichten;Alan Bennett;['Fiction', 'Contemporary', 'Short Stories', 'Audiobook', 'Plays']
+Princess Sultana's Circle;Jean Sasson;['Nonfiction', 'Biography', 'Memoir', 'Biography Memoir', 'Islam', 'Womens', 'Feminism', 'Religion', 'Cultural', 'History']
+KISS Guide to Gardening (Keep It Simple Series);L. Patricia Kite;['Gardening', 'Reference']
+When the ashes burn;Phil Lovesey;['Mystery', 'Suspense']
+Dark Tide I: Onslaught (Star Wars: The New Jedi Order, #2);Michael A. Stackpole;['Star Wars', 'Science Fiction', 'Fiction', 'Fantasy', 'Science Fiction Fantasy', 'Space Opera', 'War', 'Media Tie In', 'Novels', 'Space']
+A Hymn Before Battle (Posleen War, #1);John Ringo;['Science Fiction', 'Military Fiction', 'Fiction', 'Space Opera', 'Military Science Fiction', 'War', 'Science Fiction Fantasy', 'Aliens', 'Fantasy', 'Space']
+Girls Think of Everything: Stories of Ingenious Inventions by Women;Catherine Thimmesh;['Nonfiction', 'Science', 'Biography', 'Childrens', 'History', 'Feminism', 'Picture Books', 'Middle Grade', 'Womens', 'Historical']
+A River in Darkness: One Man's Escape from North Korea;Masaji Ishikawa;['Nonfiction', 'Memoir', 'Biography', 'History', 'Asia', 'Biography Memoir', 'Audiobook', 'Autobiography', 'Japan', 'Politics']
+At Home With Carolyne Roehm;Carolyne Roehm;['Nonfiction']
+The Day John Died;Christopher Andersen;['Biography', 'Nonfiction', 'History', 'Biography Memoir']
+Fortune and Glory: A True Hollywood Comic Book Story;Brian Michael Bendis;['Comics', 'Graphic Novels', 'Nonfiction', 'Memoir', 'Humor', 'Biography', 'Comic Book', 'Sequential Art', 'Graphic Novels Comics', 'Contemporary']
+Curse of the Spider King (The Berinfell Prophecies, #1);Wayne Thomas Batson;['Fantasy', 'Young Adult', 'Fiction', 'Christian Fiction', 'Adventure', 'Christian Fantasy', 'Middle Grade', 'Christian', 'Action', 'Elves']
+Modernism;Peter   Childs;['Philosophy', 'Art', 'Literary Criticism', 'Nonfiction', 'Criticism', 'British Literature', 'Literature', 'School']
+Leadership and Self-Deception: Getting Out of the Box;The Arbinger Institute;['Leadership', 'Business', 'Nonfiction', 'Self Help', 'Psychology', 'Management', 'Personal Development', 'Relationships', 'Philosophy', 'Buisness']
+Allah Is Not Obliged;Ahmadou Kourouma;['Africa', 'Fiction', 'African Literature', 'Ivory Coast', 'War', 'France', 'Literature', 'Novels', 'Contemporary', 'Liberia']
+Kill the Shogun (Matsuyama Kaze, #3);Dale Furutani;
+Caleb's Story (Sarah, Plain and Tall #3);Patricia MacLachlan;
+Provincializing Europe: Postcolonial Thought and Historical Difference;Dipesh Chakrabarty;
+Born in Blood and Fire: A Concise History of Latin America;John Charles Chasteen;
+Reflections on the Movies;Ken Gire;
+Gershon's Monster: A Story for the Jewish New Year;Eric A. Kimmel;
+Trans-Sister Radio;Chris Bohjalian;
+The Indwelling (Left Behind, #7);Tim LaHaye;
+Once Upon a Farm;Bob Artley;
+The Zuni Enigma: A Native American People's Possible Japanese Connection;Nancy Yaw Davis;
+The Longest Line: Broadway's Most Singular Sensation: A Chorus Line;Gary  Stevens;
+Ausweg;Edward St. Aubyn;
+Betrayal of Trust: The Collapse of Global Public Health;Laurie Garrett;
+Isle of Fire (Isle of Swords, #2);Wayne Thomas Batson;
+The Death of Adam: Essays on Modern Thought;Marilynne Robinson;
+The House of Death (Alexander The Great Mysteries, #1);Paul Doherty;
+Hikaru no Go, Vol. 5: Start (Hikaru no Go, #5);Yumi Hotta;
+Casey at the Bat: A Ballad of the Republic Sung in the Year 1888;Ernest Lawrence Thayer;
+The Stray Dog;Marc Simont;
+Brav sein? Nein danke! (Pssst! Unser Geheimnis, #6);Thomas C. Brezina;
+Hitler's Traitor : Martin Bormann and the Defeat of the Reich;Louis Kilzer;
+Pedro and Me: Friendship, Loss, and What I Learned;Judd Winick;
+One Hundred Flowers;Harold Feinstein;
+Vanishing Acts: A Science Fiction Anthology;Ellen Datlow;
+The Dinosaur Hunters;Deborah Cadbury;
+A Density of Souls;Christopher  Rice;
+Mushishi, Vol. 1;Yuki Urushibara;
+Dream Snow;Eric Carle;
+Sun Hawk;Cassie Edwards;
+Public and Private Families: A Reader;Andrew J. Cherlin;
+Plowing the Dark;richard-powers;
+101 Ways to Reach Your Community;Steve Sjogren;
+J. K. Rowling: The Wizard Behind Harry Potter;Marc Shapiro;
+Aunt Dimity Beats the Devil (Aunt Dimity Mystery, #6);Nancy Atherton;
+From Dawn to Decadence: 500 Years of Western Cultural Life, 1500 to the Present;Jacques Barzun;
+Der Speck muss weg! (Pssst! Unser Geheimnis, #7);Thomas C. Brezina;
+October Dreams: A Celebration of Halloween;Richard  Chizmar;['Horror', 'Halloween', 'Short Stories', 'Fiction', 'Anthologies', 'Fantasy', 'Essays', 'Holiday', 'Adult', 'Historical Fiction']
+Heart of Gold;Sharon Shinn;['Fantasy', 'Science Fiction', 'Romance', 'Fiction', 'Science Fiction Fantasy', 'Adult', 'Young Adult', 'Science Fiction Romance', 'Romantic', 'Speculative Fiction']
+Stargazer (Evernight, #2);Claudia Gray;['Young Adult', 'Vampires', 'Fantasy', 'Paranormal', 'Romance', 'Paranormal Romance', 'Supernatural', 'Urban Fantasy', 'Fiction', 'Ghosts']
+Knopf Guide: England and Wales;Alfred A. Knopf Publishing Company;['Travel', 'Reference']
+Listening to Lorca;Eric Hawkins;no
+The Toughest Indian in the World;Sherman Alexie;['Short Stories', 'Fiction', 'Literature', 'American', 'Humor', 'Contemporary', 'Literary Fiction', 'Adult', 'Short Story Collection', 'Cultural']
+White;Rosie Thomas;['Fiction', 'Romance', 'Travel', 'Love', 'Chick Lit', 'Contemporary Romance']
+Feng Shui for You and Your Cat;Alison Daniels;no
+Savage Devotion;Cassie Edwards;['Historical Romance', 'Romance', 'Historical', 'Historical Fiction', 'Adult', 'Westerns']
+Snow in August;Gao Xingjian;['Plays', 'China', 'Chinese Literature', 'Fiction']
+Our Big Home (Reading Rainbow Book);Linda Glaser;['Picture Books', 'Poetry', 'Childrens', 'Earth', 'Nature']
+Lethal Seduction (Madison Castelli #1);Jackie Collins;['Romance', 'Fiction', 'Chick Lit', 'Thriller', 'Novels', 'Suspense', 'Contemporary', 'Adult', 'Contemporary Romance', 'Drama']
+The Feast of Love;Charles Baxter;['Fiction', 'Novels', 'Contemporary', 'Romance', 'Literary Fiction', 'Book Club', 'Short Stories', 'Adult Fiction', 'Love', 'Adult']
+Zero: The Biography of a Dangerous Idea;Charles Seife;['Nonfiction', 'Science', 'Mathematics', 'History', 'Philosophy', 'Physics', 'Biography', 'Microhistory', 'Popular Science', 'Education']
+Setting the World Ablaze: Washington, Adams, Jefferson, and the American Revolution;John Ferling;['History', 'American History', 'American Revolution', 'American Revolutionary War', 'Nonfiction', 'Biography', 'Presidents', 'Us Presidents']
+Telling Tales;Alan Bennett;['Nonfiction', 'Biography', 'Autobiography', 'British Literature', 'Drama', 'Biography Memoir']
+Phoenix, Arizona Et Autres Nouvelles;Sherman Alexie;['Fiction', 'Short Stories', 'Humor', 'Literature', 'Young Adult', 'Contemporary', 'Adult Fiction', 'Literary Fiction', 'School', 'American']
+Me Myself I;Pip Karmel;['Time Travel']
+Savage Grace (Savage, #13);Cassie Edwards;['Romance', 'Historical Romance', 'Historical Fiction', 'Fiction', 'Westerns', 'Historical']
+Ben, In the World: The Sequel to the Fifth Child;Doris Lessing;['Fiction', 'Horror', 'Literature', 'Novels', 'British Literature', 'Nobel Prize', 'Roman', 'Classics', '21st Century', 'Adult Fiction']
+The Rose and the Beast: Fairy Tales Retold;Francesca Lia Block;['Fantasy', 'Young Adult', 'Fairy Tales', 'Short Stories', 'Fiction', 'Retellings', 'Fairy Tale Retellings', 'Romance', 'Magical Realism', 'Beauty and The Beast']
+Storm Track (Deborah Knott Mysteries, #7);Margaret Maron;['Mystery', 'Fiction', 'Mystery Thriller', 'Cozy Mystery', 'Southern', 'Audiobook', 'Crime', 'Suspense', 'American', 'Own']
+Liar's Game;Eric Jerome Dickey;['Fiction', 'Romance', 'African American', 'Urban', 'Contemporary', 'Adult', 'Erotica', 'Drama', 'Relationships', 'Contemporary Romance']
+A History of Britain: At the Edge of the World? 3500 BC-AD 1603 (A History of Britain, #1);Simon Schama;['History', 'Nonfiction', 'Audiobook', 'British Literature', 'European History', 'Historical', 'World History', 'Ancient History', 'Medieval', 'Reference']
+The Onion's Finest News Reporting, Volume 1;The Onion;['Humor', 'Comedy', 'Nonfiction', 'Politics', 'Comics', 'Reference', 'Anthologies']
+No Logo;Naomi Klein;['Nonfiction', 'Politics', 'Economics', 'Business', 'Sociology', 'History', 'Society', 'Cultural', 'Design', 'Philosophy']
+One Stick Song;Sherman Alexie;['Poetry', 'Fiction', 'Native Americans', 'Literature', 'Read For School']
+More Than You Know;Beth Gutcheon;['Fiction', 'Historical Fiction', 'Ghosts', 'Paranormal', 'Mystery', 'Romance', 'Contemporary', 'Historical', 'Supernatural', 'Ghost Stories']
+The Dangerous Lord (Lord Trilogy, #3);Sabrina Jeffries;['Historical Romance', 'Romance', 'Historical', 'Regency', 'Historical Fiction', 'Fiction', 'Adult', 'British Literature', 'Regency Romance', 'Drama']
+Killing Time;Caleb Carr;['Fiction', 'Science Fiction', 'Mystery', 'Thriller', 'Fantasy', 'Science Fiction Fantasy', 'Time Travel', 'Historical Fiction', 'Dystopia', 'Crime']
+No More Dead Dogs;Gordon Korman;['Young Adult', 'Realistic Fiction', 'Humor', 'Fiction', 'Middle Grade', 'Childrens', 'School', 'Animals', 'Mystery', 'Juvenile']
+We, the Jury: The Jury System and the Ideal of Democracy, with a New Preface;Jeffrey B. Abramson;['Law']
+Stet: A memoir;Diana Athill;['Nonfiction', 'Memoir', 'Biography', 'Books About Books', 'Writing', 'Autobiography', 'Biography Memoir', 'British Literature', 'History', 'Language']
+Fresh Air Fiend: Travel Writings;Paul Theroux;['Travel', 'Nonfiction', 'Essays', 'Memoir', 'Adventure', 'Travelogue', 'Humor', 'Politics', 'Philosophy', 'Autobiography']
+Dead Angler;Victoria Houston;['Mystery', 'Fiction', 'Cozy Mystery', 'Crime', 'Romance', 'Mystery Thriller', 'Murder Mystery', 'Thriller', 'Suspense', 'Outdoors']
+Home for the Holidays;Johanna Lindsey;['Romance', 'Historical Romance', 'Christmas', 'Historical', 'Historical Fiction', 'Fiction', 'Holiday', 'Regency', 'Adult', 'Regency Romance']
+A Treasury of Five-Minute Stories;Fiona Waters;['Short Stories']
+A Friend of the Earth;T. Coraghessan Boyle;['Fiction', 'Science Fiction', 'Dystopia', 'Climate Change Fiction', 'Environment', 'Novels', 'Literary Fiction', 'Contemporary', 'Literature', 'Climate Change']
+Face Forward;Kevyn Aucoin;['Nonfiction', 'Fashion', 'Art', 'Reference', 'Self Help', 'Photography', 'How To', 'Health', 'Adult']
+Journals of Robert Rogers of the Rangers;Robert Rogers;['History', 'Nonfiction', 'War']
+Nichts. Was im Leben wichtig ist;Janne Teller;['Young Adult', 'Fiction', 'Contemporary', 'Philosophy', 'School', 'Teen', 'Realistic Fiction', 'Horror', 'Danish', 'Coming Of Age']
+A Long Way from Tipperary;John Dominic Crossan;['Memoir', 'Biography', 'Religion', 'Christianity', 'Theology', 'Biography Memoir', 'Spirituality']
+Playing the Moldovans at Tennis;Tony Hawks;['Travel', 'Nonfiction', 'Humor', 'Comedy', 'Memoir', 'Biography', 'Autobiography', 'Sports', 'Adventure', 'Biography Memoir']
+The Abduction of Julia (Rogues, #1);Karen Hawkins;['Historical Romance', 'Romance', 'Historical', 'Regency', 'Historical Fiction', 'Regency Romance', 'Fiction', 'Adult', 'British Literature', 'M F Romance']
+If You Take a Mouse to the Movies;Laura Numeroff;['Picture Books', 'Christmas', 'Childrens', 'Holiday', 'Animals', 'Fiction', 'Storytime', 'Kids', 'Humor', 'Fantasy']
+See You Later, Gladiator;Jon Scieszka;['Childrens', 'Historical Fiction', 'Fiction', 'Fantasy', 'Humor', 'Science Fiction', 'Adventure', 'Young Adult', 'Chapter Books', 'Middle Grade']
+Evan and Elle  (Constable Evans, #4);Rhys Bowen;['Mystery', 'Fiction', 'Cozy Mystery', 'Crime', 'Contemporary', 'British Literature', 'Detective', 'Murder Mystery', 'Mystery Thriller', 'Audiobook']
+East of Peculiar (Hannah Garvey Mystery, #1);Suzann Ledbetter;['Mystery', 'Romance', 'Cozy Mystery', 'Fiction', 'Romantic Suspense', 'Humor']
+The Richmond Campaign of 1862: The Peninsula and the Seven Days;Gary W. Gallagher;['Civil War', 'History', 'American Civil War']
+White Squaw: The True Story of Jennie Wiley;Arville Wheeler;no
+Abgesoffen;Carlos Eugenio López;no
+The Breach : Inside the Impeachment and Trial of William Jefferson Clinton;Peter Baker;['Politics', 'History', 'Nonfiction', 'American History', 'Presidents', 'Biography', 'Us Presidents', 'Law']
+The Seduction (Notorious, #1);Nicole Jordan;['Historical Romance', 'Romance', 'Historical', 'Regency', 'Historical Fiction', 'Regency Romance', 'Erotica']
+I Hated, Hated, Hated This Movie;Roger Ebert;['Nonfiction', 'Film', 'Media Tie In', 'Humor', 'Essays', 'Criticism', 'Reference', 'Pop Culture', 'Cultural']
+Land Girls at the Old Rectory (Old Pond Books);Irene Grimwood;no
+Girlfriends Forever;Susan Branch;['Cookbooks', 'Nonfiction', 'Cooking', 'Food', 'Memoir']
+A Massive Swelling: Celebrity Reexamined as Grotesque Crippling Disease and Other Cultural Revelations;Cintra Wilson;['Nonfiction', 'Essays', 'Humor', 'Sociology', 'Pop Culture', 'Cultural', 'Music', 'Film', 'Cultural Studies']
+Island: Collected Stories;Alistair MacLeod;['Short Stories', 'Fiction', 'Canada', 'Literature', 'Canadian Literature', 'Contemporary', 'Literary Fiction', 'Historical Fiction', 'Unfinished', '20th Century']
+Once a Wolf (Historical Werewolf, #2);Susan Krinard;['Romance', 'Paranormal Romance', 'Paranormal', 'Historical', 'Historical Romance', 'Fantasy', 'Werewolves', 'Fiction', 'Shapeshifters', 'Historical Fiction']
+A Blind Man Can See How Much I Love You: Stories;Amy Bloom;['Short Stories', 'Fiction', 'Adult Fiction', 'Contemporary', 'Literary Fiction', 'LGBT', 'Romance', 'Literature', 'Womens', 'Love']
+Cindy Ellen: A Wild Western Cinderella;Susan Lowell;['Picture Books', 'Cinderella', 'Childrens', 'Fairy Tales', 'Fantasy', 'Fiction', 'Folklore', 'Westerns', 'Fractured Fairy Tales', 'Retellings']
+Listen to the Silence (Sharon McCone #20);Marcia Muller;['Mystery', 'Fiction', 'Mystery Thriller', 'Crime', 'Suspense', 'Detective']
+A Door to All My Rooms;Peggy Grayson;no
+Salt;Adam Roberts;['Science Fiction', 'Fiction', 'Religion', 'British Literature', 'Politics', 'Speculative Fiction', 'War', 'Science Fiction Fantasy']
+Dancing on the Stones: Selected Essays;John     Nichols;
+First Person: An Astonishingly Frank Self-Portrait by Russia's President;Vladimir Putin;
+"Opposites Attract (includes: MacLeod, #2.7; de Piaget/MacLeod, #6.5)";Lynn Kurland;
+Sugarplum Dead (Death on Demand, #12);Carolyn G. Hart;
+Scar Tissue (Brady Coyne, #17);William G. Tapply;
+Some Babies Grow Up to be Cowboys: A Collection of Articles and Essays (Volume 5) (Western Life);John R. Erickson;
+From Rage to Responsibility: Black Conservative Jesse Lee Peterson and America Today;Jesse Lee Peterson;
+Big Chief Elizabeth;Giles Milton;
+Olympiad;Tom Holt;
+Hot Night in the City;Trevanian;
+Virtuosi: A Defense and a (Sometimes Erotic) Celebration of Great Pianists;Mark   Mitchell;
+"If I Had You (de Piaget, #2; de Piaget/MacLeod, #7)";Lynn Kurland;
+The Tale of the Allergist's Wife and Other Plays: The Tale of the Allergist's Wife, Vampire Lesbians of Sodom, Psycho Beach Party, The Lady in Question, Red Scare on Sunset;Charles Busch;
+The Tiananmen Papers;Liang Zhang;
+The Rumpelstiltskin Problem;Vivian Vande Velde;
+Shooting Chant (Ella Clah, #5);Aimée Thurlo;
+Moth Smoke;Mohsin Hamid;
+Scotland Is Not for the Squeamish;Bill Watkins;
+Habits of the Mind: Intellectual life as a Christian calling;James W. Sire;
+The Fanatic;James Robertson;
+The Fall (The Seventh Tower, #1);Garth Nix;
+Unacknowledged Legislation: Writers in the Public Sphere;Christopher Hitchens;
+Honest Illusions / Private Scandals / Hidden Riches;Nora Roberts;
+The Unknown Cultural Revolution: Life and Change in a Chinese Village;Dongping Han;
+An American Story;Debra J. Dickerson;
+Murder at Manassas (Harrison Raines Civil War Mysteries, Book 1);Michael Kilian;
+Inheriting the Revolution: The First Generation of Americans;Joyce Appleby;
+In for a Penny (Bay Tanner, #1);Kathryn R. Wall;
+Tactics: A Game Plan for Discussing Your Christian Convictions;Gregory Koukl;
+The Biographer's Tale;A.S. Byatt;
+Sale of the Century: Russia's Wild Ride from Communism to Capitalism;Chrystia Freeland;
+White Women Writing White: H.D., Elizabeth Bishop, Sylvia Plath, and Whiteness;Renée R. Curry;
+The Joy of a Peanuts Christmas: 50 Years of Holiday Comics!;Charles M. Schulz;
+The Thief of Time;John Boyne;
+Gun Violence: The Real Costs;Philip J. Cook;
+Women Writers of Traditional China: An Anthology of Poetry and Criticism;Kang-i Sun Chang;
+"Define ""Normal""";Julie Anne Peters;['Young Adult', 'Fiction', 'Realistic Fiction', 'LGBT', 'Coming Of Age', 'Teen', 'Contemporary']
+The Alpine Menace (Emma Lord, #13);Mary Daheim;['Mystery', 'Cozy Mystery', 'Mystery Thriller']
+Rules of Engagement (Governess Brides, #3);Christina Dodd;['Romance', 'Historical Romance', 'Historical', 'Regency', 'Historical Fiction', 'Victorian', 'Regency Romance', 'Fiction', 'Adult', 'British Literature']
+An Invisible Sign of My Own;Aimee Bender;['Fiction', 'Magical Realism', 'Novels', 'Contemporary', 'Literary Fiction', 'Adult Fiction', 'Adult', 'American', 'Literature', 'Mental Health']
+Temptation;Dermot Bolger;no
+Power Politics;Arundhati Roy;['Nonfiction', 'Politics', 'India', 'Essays', 'History', 'Indian Literature', 'Political Science', 'Post Colonial', 'Female Authors', 'Social Science']
+Plays 1: The Lament for Arthur Cleary / In High Germany / The Holy Ground / Blinded by the Light;Dermot Bolger;no
+Grace for the Moment: Inspirational Thoughts for Each Day of the Year, Volume 1;Max Lucado;['Christian', 'Nonfiction', 'Religion', 'Inspirational', 'Christianity', 'Spirituality', 'Faith', 'Christian Non Fiction', 'Christian Living', 'Self Help']
+An Episode in the Life of a Landscape Painter;César Aira;['Fiction', 'Art', 'Historical Fiction', 'Latin American', 'Literature', 'Spanish Literature', 'Novella', 'Novels', 'Contemporary', 'Latin American Literature']
+Diary of a Political Idiot: Normal Life in Belgrade;Jasmina Tešanović;['Nonfiction', 'Memoir']
+Emerald Magic: Great Tales of Irish Fantasy;Jacqueline Carey;['Fantasy', 'Short Stories', 'Anthologies', 'Fiction', 'Ireland', 'Science Fiction Fantasy', 'Irish Literature', 'Fairy Tales', 'Mythology', 'Historical']
+The Complete Mackenzies Collection: Mackenzie's Mountain / Mackenzie's Mission / Mackenzie-s Pleasure / Mackenzie's Magic / A Game of Chance (Mackenzie Family, #1-4);Linda Howard;['Romance', 'Contemporary', 'Fiction', 'Romantic Suspense', 'Contemporary Romance', 'Military Fiction', 'Anthologies', 'Historical Romance', 'Suspense', 'Mystery Thriller']
+Passionate Minds: Women Rewriting the World;Claudia Roth Pierpont;['Nonfiction', 'Biography', 'Feminism', 'Essays', 'History', 'Womens', 'Biography Memoir', 'Writing', 'Historical', 'Womens Studies']
+Observatory Mansions;Edward Carey;['Fiction', 'Gothic', 'Fantasy', 'Contemporary', 'Literary Fiction', 'British Literature', 'Novels', 'Weird Fiction', '21st Century', 'Literature']
+Beware of the Storybook Wolves;Lauren Child;['Picture Books', 'Childrens', 'Humor', 'Fairy Tales', 'Fantasy', 'Books About Books', 'Animals', 'Fractured Fairy Tales', 'Wolves', 'Classics']
+Persian Mirrors: The Elusive Face of Iran;Elaine Sciolino;['Iran', 'Nonfiction', 'History', 'Travel', 'Politics', 'Journalism', 'Islam', 'Cultural', 'Asia', 'Religion']
+Plays 1: Gasping / Silly Cow / Popcorn;Ben Elton;['Plays', 'Theatre']
+Letters and Orations;Cassandra Fedele;['Philosophy', 'Italian Literature', 'Nonfiction', 'History']
+Kiss of the Bees (Walker Family, #2);J.A. Jance;['Mystery', 'Fiction', 'Thriller', 'Suspense', 'Mystery Thriller', 'Crime', 'Family', 'Native Americans']
+The Crown of Silence (The Chronicles of Magravandias, #2);Storm Constantine;['Fantasy', 'Fiction', 'Science Fiction Fantasy', 'LGBT', 'Dark Fantasy', 'Gay', 'Science Fiction', 'Epic Fantasy']
+All Things Censored;Mumia Abu-Jamal;['Nonfiction', 'Politics', 'Race', 'African American', 'History', 'Memoir']
+Cinderellis and the Glass Hill (The Princess Tales, #4);Gail Carson Levine;['Fantasy', 'Fairy Tales', 'Childrens', 'Fiction', 'Young Adult', 'Middle Grade', 'Retellings', 'Romance', 'Fairy Tale Retellings', 'Cinderella']
+American Pharaoh: Mayor Richard J. Daley - His Battle for Chicago and the Nation;Adam Cohen and Elizabeth Taylor;['History', 'Biography', 'Politics', 'Nonfiction', 'American History', 'Biography Memoir', 'Cities', 'Urban Studies', 'American', 'United States']
+Where Dreams Begin;Lisa Kleypas;['Historical Romance', 'Romance', 'Historical', 'Historical Fiction', 'Regency', 'Fiction', 'Adult', 'Regency Romance', 'Audiobook', 'British Literature']
+"Much Ado About Marriage (MacLean Curse, #6; Hurst Amulet, #0)";Karen Hawkins;['Historical Romance', 'Romance', 'Historical', 'Historical Fiction', 'Scotland', 'Regency', 'Adult', 'Fiction', 'Pirates', 'M F Romance']
+The Holocaust Industry: Reflections on the Exploitation of Jewish Suffering;Norman G. Finkelstein;['History', 'Politics', 'Nonfiction', 'Holocaust', 'Religion', 'Israel', 'Jewish', 'War', 'World War II', 'Judaism']
+Lady of Skye;Patricia Cabot;['Historical Romance', 'Romance', 'Historical', 'Historical Fiction', 'Fiction', 'Scotland', 'Adult', 'Chick Lit', 'Regency', 'Adult Fiction']
+Genesis;Poul Anderson;['Science Fiction', 'Fiction', 'Science Fiction Fantasy', 'Audiobook', 'Hard Science Fiction', 'Sci Fi Fantasy', 'Speculative Fiction']
+More Than a Mistress (Mistress Trilogy, #1);Mary Balogh;['Historical Romance', 'Romance', 'Historical', 'Regency', 'Historical Fiction', 'Regency Romance', 'Fiction', 'Adult', 'Audiobook', 'British Literature']
+The Skin of the Sky;Elena Poniatowska;['Fiction', 'Historical Fiction', 'Spanish Literature', 'Latin American', 'Womens', 'Novels', 'Literature', 'Latin American Literature', 'International', 'Literary Fiction']
+Kissing Tennessee: and Other Stories from the Stardust Dance;Kathi Appelt;['Young Adult', 'Short Stories', 'Middle Grade', 'Fiction', 'Romance', 'Teen', 'Realistic Fiction', 'High School']
+Agatha Raisin and the Fairies of Fryfam (Agatha Raisin, #10);M.C. Beaton;['Mystery', 'Cozy Mystery', 'Fiction', 'Audiobook', 'Crime', 'British Literature', 'Murder Mystery', 'Mystery Thriller', 'Detective', 'Humor']
+The Slate Diaries;Jodi Kantor;['Essays', 'Nonfiction', 'Short Stories', 'Politics']
+When I Lived in Modern Times;Linda Grant;['Fiction', 'Historical Fiction', 'Israel', 'Jewish', 'Historical', 'Contemporary', 'Literary Fiction', 'Novels', 'Literature', '21st Century']
+A Taste of Sin (Sin Trilogy, #1);Connie Mason;['Historical Romance', 'Historical', 'Romance', 'Historical Fiction', 'Georgian', 'Adult', 'Fiction', 'Romantic', 'Regency']
+The Last Samurai;Helen DeWitt;['Fiction', 'Contemporary', 'Novels', 'Literary Fiction', 'Literature', 'American', 'Historical Fiction', 'Classics', '21st Century', 'Japan']
+The Devil and Miss Prym;Paulo Coelho;['Fiction', 'Philosophy', 'Novels', 'Contemporary', 'Spirituality', 'Fantasy', 'Magical Realism', 'Literature', 'Inspirational', 'Adult']
+Home and Exile;Chinua Achebe;['Nonfiction', 'Africa', 'Essays', 'Nigeria', 'African Literature', 'History', 'Literature', 'Biography', 'Memoir', 'Literary Criticism']
+She Came In Through The Kitchen Window: Recipes Inspired by the Beatles and Their Music;Stephen J. Spignesi;['Cookbooks']
+Portrait in Sepia;Isabel Allende;['Fiction', 'Historical Fiction', 'Magical Realism', 'Romance', 'Historical', 'Novels', 'Spanish Literature', 'Latin American', 'Literature', 'Latin American Literature']
+The Children's Treasury of Classic Poetry;Nicola Baxter (editor);['Poetry', 'Picture Books']
+Crazybone (Nameless Detective, #26);Bill Pronzini;['Mystery', 'Detective']
+Unveiling Traditions: Postcolonial Islam in a Polycentric World;Anouar Majid;['Islam', 'Nonfiction', 'Religion']
+World of Pies;Karen Stolz;['Fiction', 'Young Adult', 'Coming Of Age', 'Historical Fiction', 'Chick Lit', 'Food', 'Novels', 'Culinary', 'Foodie', 'Adult Fiction']
+The Browser's Ecstasy: A Meditation on Reading;Geoffrey O'Brien;['Books About Books', 'Poetry']
+Ignorance;Milan Kundera;['Fiction', 'Novels', 'Czech Literature', 'Literature', 'Philosophy', 'Classics', 'France', 'Contemporary', 'European Literature', 'Romance']
+Isabel: Jewel of Castilla, Spain, 1466;Carolyn Meyer;['Historical Fiction', 'Young Adult', 'Historical', 'Middle Grade', 'Childrens', 'Fiction', 'Spain', 'Diary', 'Juvenile', '15th Century']
+The Waterfall;Carla Neggers;['Romantic Suspense', 'Romance', 'Suspense', 'Fiction', 'Mystery', 'Contemporary Romance', 'Contemporary', 'Harlequin', 'Mystery Thriller', 'Adventure']
+The Hutchinson Book of Pig Tales;Colin McNaughton;no
+The Shape of Snakes;Minette Walters;['Mystery', 'Crime', 'Fiction', 'Thriller', 'Mystery Thriller', 'British Literature', 'Suspense', 'Novels', 'Murder Mystery', 'Psychological Thriller']
+Coram Boy;Jamila Gavin;['Historical Fiction', 'Young Adult', 'Fiction', 'Historical', 'Novels', 'Childrens', 'Family', 'Adventure', 'School', '18th Century']
+After You'd Gone;Maggie O'Farrell;['Fiction', 'Contemporary', 'Romance', 'Literary Fiction', 'Scotland', 'Chick Lit', 'Family', 'Novels', 'Adult Fiction', 'Mystery']
+A Wolf at the Door: And Other Retold Fairy Tales;Ellen Datlow;['Fantasy', 'Short Stories', 'Fairy Tales', 'Young Adult', 'Anthologies', 'Fiction', 'Retellings', 'Middle Grade', 'Fairy Tale Retellings', 'Childrens']
+Aquariums of Pyongyang: Ten Years in the North Korean Gulag;Kang Chol-Hwan;['Nonfiction', 'History', 'Memoir', 'Biography', 'Asia', 'Politics', 'Biography Memoir', 'Autobiography', 'Historical', 'Survival']
+Shakespeare's Scribe (Shakespeare Stealer, #2);Gary L. Blackwood;['Historical Fiction', 'Young Adult', 'Historical', 'Middle Grade', 'Fiction', 'Mystery', 'Childrens', 'Adventure', 'British Literature', 'Juvenile']
+Wolf Star (Claidi Journals #2);Tanith Lee;['Fantasy', 'Young Adult', 'Romance', 'Fiction', 'Young Adult Fantasy', 'Adventure', 'Science Fiction', 'Childrens', 'Teen', 'High Fantasy']
+Waiting: The True Confessions of a Waitress;Debra Ginsberg;['Nonfiction', 'Memoir', 'Food', 'Biography', 'Biography Memoir', 'Humor', 'Autobiography', 'Book Club', 'Food Writing', 'Adult']
+The Devil's Code (Kidd & LuEllen, #3);John Sandford;['Mystery', 'Fiction', 'Thriller', 'Crime', 'Mystery Thriller', 'Suspense', 'Audiobook', 'Detective', 'Novels', 'Action']
+Under Copp's Hill (American Girl History Mysteries, #8);Katherine Ayres;['Historical Fiction', 'Mystery', 'Childrens', 'Middle Grade', 'Historical', 'Fiction', 'Young Adult', '20th Century', 'Action', 'Adventure']
+L. A. Dead;Stuart Woods;['Mystery', 'Fiction', 'Crime', 'Thriller', 'Suspense', 'Mystery Thriller', 'Murder Mystery', 'Detective', 'Audiobook', 'Adult']
+You Forgot Your Skirt, Amelia Bloomer!;Shana Corey;['Picture Books', 'Biography', 'History', 'Nonfiction', 'Childrens', 'Historical', 'Womens', 'Feminism', 'Womens Rights', 'Kids']
+Pharaoh's Daughter: A Novel of Ancient Egypt;Julius Lester;['Historical Fiction', 'Young Adult', 'Egypt', 'Fiction', 'Historical', 'Childrens', 'Teen', 'Retellings', 'Middle Grade', 'Fantasy']
+Piranha to Scurfy: And Other Stories;Ruth Rendell;['Short Stories', 'Mystery', 'Fiction', 'Crime', 'Mystery Thriller', 'British Literature', 'Horror', 'Short Story Collection']
+Mistletoe Man (China Bayles, #9);Susan Wittig Albert;['Mystery', 'Cozy Mystery', 'Fiction', 'Christmas', 'Mystery Thriller', 'Adult Fiction', 'Holiday', 'Crime', 'Thriller', 'Audiobook']
+Miss Bindergarten Stays Home from Kindergarten;Joseph Slate;
+The Year of Miss Agnes;Kirkpatrick Hill;
+Abby Cadabra, Super Speller;Joan Holub;
+Rattle His Bones (Daisy Dalrymple, #8);Carola Dunn;
+One Lighthouse, One Moon;Anita Lobel;
+Exile (Garnethill, #2);Denise Mina;
+Silent to the Bone;E.L. Konigsburg;
+Winter of the Wolf Moon (Alex McKnight, #2);Steve Hamilton;
+Edwurd Fudwupper Fibbed Big (Storyopolis Books);Berkeley Breathed;
+Beneath the Ashes (Alex Jensen / Jessie Arnold, #7);Sue Henry;
+Blue Deer Thaw;Jamie  Harrison;
+Paul in the Country;Michel Rabagliati;
+The Celtic Riddle (Lara McClintoch Archeological Mystery, #4);Lyn Hamilton;
+Cold Flat Junction (Emma Graham, #2);Martha Grimes;
+I Walk at Night;Lois Duncan;
+Foul Matter;Martha Grimes;
+Seven Sisters (Benni Harper, #7);Earlene Fowler;
+Black Comedy: 9 Plays: A Critical Anthology with Interviews and Essays;Pamela Faith Jackson;
+The Mother's Day Murder (Christine Bennett, #12);Lee Harris;
+Cinderella: The Dog and Her Little Glass Slipper;Diane Goode;
+The Wedding Game (Anneke Haagen, #6);Susan Holtzer;
+The Christmas Ship;Dean Morrissey;
+Dr. Death (Alex Delaware, #14);Jonathan Kellerman;
+Stalker (Peter Decker/Rina Lazarus, #12);Faye Kellerman;
+Math Rashes and Other Classroom Tales;Douglas Evans;
+A Misty Mourning (Torie O'Shea, #4);Rett MacPherson;
+The Aerialist;Richard Schmitt;
+The Fungus That Ate My School;Arthur Dorros;
+Suspicion of Malice (Gail Connor and Anthony Quintana, #5);Barbara Parker;
+Felidae / Francis (Felidae, #1-2);Akif Pirinçci;
+The Perennial Killer (Gardening Mysteries, #5);Ann Ripley;
+Midnight Come Again (Kate Shugak, #10);Dana Stabenow;
+The Inextinguishable Symphony: A True Story of Music and Love in Nazi Germany;Martin Goldsmith;
+Ten Thousand Islands (Doc Ford Mystery #7);Randy Wayne White;
+Murder of a Smart Cookie (A Scumble River Mystery, #7);Denise Swanson;
+Murder of a Small-Town Honey (A Scumble River Mystery, #1);Denise Swanson;
+Eclipse Bay (Eclipse Bay Trilogy, #1);Jayne Ann Krentz;['Romance', 'Contemporary', 'Contemporary Romance', 'Romantic Suspense', 'Mystery', 'Fiction', 'Suspense']
+The Search (Eve Duncan, #3);Iris Johansen;['Mystery', 'Fiction', 'Thriller', 'Suspense', 'Romance', 'Mystery Thriller', 'Crime', 'Romantic Suspense', 'Contemporary', 'Adult Fiction']
+Dust to Dust (Kovac and Liska, #2);Tami Hoag;['Mystery', 'Thriller', 'Fiction', 'Suspense', 'Crime', 'Mystery Thriller', 'Romantic Suspense', 'Romance', 'Audiobook', 'Detective']
+"Harmony (Ghost Hunters, #1; Ghost Hunters, #0.5)";Jayne Castle;['Romance', 'Paranormal', 'Paranormal Romance', 'Fantasy', 'Science Fiction', 'Fiction', 'Futuristic', 'Mystery', 'Adult', 'Science Fiction Romance']
+After Dark (Ghost Hunters, #1);Jayne Castle;['Romance', 'Paranormal', 'Paranormal Romance', 'Fantasy', 'Science Fiction', 'Mystery', 'Futuristic', 'Fiction', 'Romantic Suspense', 'Urban Fantasy']
+The Courtship (Brides, #5);Catherine Coulter;['Romance', 'Historical Romance', 'Historical', 'Regency', 'Historical Fiction', 'Fiction', 'Adult', 'Regency Romance', 'M F Romance', 'Audiobook']
+Experiences in translation;Umberto Eco;['Nonfiction', 'Language', 'Linguistics', 'Essays', 'Literature', 'Italy', 'Writing', 'Italian Literature', 'Philosophy', 'Reference']
+The Unsung Hero (Troubleshooters, #1);Suzanne Brockmann;['Romance', 'Romantic Suspense', 'Suspense', 'Military Fiction', 'Contemporary', 'Contemporary Romance', 'Fiction', 'Military Romance', 'Mystery', 'Thriller']
+Cinderella for a Night (36 Hours, #13);Susan Mallery;['Romance', 'Contemporary']
+Paradise County;Karen Robards;['Romance', 'Romantic Suspense', 'Mystery', 'Contemporary Romance', 'Fiction', 'Suspense', 'Contemporary', 'Mystery Thriller', 'Adult', 'Chick Lit']
+Irish Rebel (Irish Hearts, #3);Nora Roberts;['Romance', 'Contemporary Romance', 'Fiction', 'Contemporary', 'Chick Lit', 'Adult', 'Horses', 'Harlequin', 'Ireland', 'Irish Literature']
+Ghost Moon;Karen Robards;['Romance', 'Romantic Suspense', 'Mystery', 'Suspense', 'Fiction', 'Contemporary Romance', 'Contemporary', 'Thriller', 'Mystery Thriller', 'Chick Lit']
+Wicked Widow (Vanza, #3);Amanda Quick;['Romance', 'Historical Romance', 'Historical', 'Mystery', 'Historical Fiction', 'Fiction', 'Regency', 'Paranormal', 'Suspense', 'Paranormal Romance']
+Get Lucky (Tall, Dark & Dangerous, #9);Suzanne Brockmann;['Romance', 'Romantic Suspense', 'Military Fiction', 'Contemporary', 'Contemporary Romance', 'Suspense', 'Military Romance', 'Harlequin', 'Fiction', 'Action']
+Distemper (Alex Bernier, #2);Beth Saulnier;['Mystery']
+Midnight in Ruby Bayou (Donovan, #4);Elizabeth Lowell;['Romance', 'Romantic Suspense', 'Mystery', 'Fiction', 'Suspense', 'Contemporary', 'Contemporary Romance', 'Thriller', 'Mystery Thriller', 'Adult']
+"Hiding in the Shadows (Bishop/Special Crimes Unit, #2; Shadows, #2)";Kay Hooper;['Mystery', 'Paranormal', 'Romance', 'Suspense', 'Romantic Suspense', 'Fiction', 'Thriller', 'Mystery Thriller', 'Paranormal Romance', 'Crime']
+If She Only Knew (The Cahills #1);Lisa Jackson;['Mystery', 'Romantic Suspense', 'Thriller', 'Romance', 'Suspense', 'Fiction', 'Mystery Thriller']
+"Out of the Shadows (Bishop/Special Crimes Unit, #3; Shadows, #3)";Kay Hooper;['Mystery', 'Paranormal', 'Romance', 'Romantic Suspense', 'Suspense', 'Fiction', 'Thriller', 'Crime', 'Paranormal Romance', 'Mystery Thriller']
+Name Dropping;Jane Heller;['Chick Lit', 'Fiction', 'Romance', 'Humor', 'Mystery', 'Contemporary Romance', 'New York', 'Contemporary', 'M F Romance', 'Cozy Mystery']
+"Stealing Shadows (Bishop/Special Crimes Unit, #1; Shadows, #1)";Kay Hooper;['Mystery', 'Paranormal', 'Romance', 'Suspense', 'Romantic Suspense', 'Thriller', 'Fiction', 'Crime', 'Paranormal Romance', 'Mystery Thriller']
+Catching Kelly;Sue Civil-Brown;['Romance', 'Contemporary Romance', 'Contemporary']
+The Switch;Sandra       Brown;['Romance', 'Mystery', 'Romantic Suspense', 'Fiction', 'Suspense', 'Thriller', 'Contemporary', 'Mystery Thriller', 'Contemporary Romance', 'Adult']
+Glass Houses (New Orleans PD, #2);Stella Cameron;['Romance', 'Romantic Suspense', 'Suspense', 'Love', 'Contemporary']
+Standoff;Sandra       Brown;['Romance', 'Romantic Suspense', 'Suspense', 'Fiction', 'Thriller', 'Mystery', 'Contemporary', 'Mystery Thriller', 'Contemporary Romance', 'Crime']
+;;no
+;;no
+;;no
+;;no
+;;no
+;;no
+;;no
+;;no
+;;no
+;;no
+;;no
+;;no
+;;no
+;;no
+;;no
+;;no
+;;no
+;;no
+;;no
+;;no
+;;no
+;;no
+;;no
+;;no
+;;no
+;;no
+;;no
+;;no
+;;no
+;;no
+;;no
+;;no
+;;no
+;;no
+;;no
+;;no
+;;no
+;;no
+;;no
